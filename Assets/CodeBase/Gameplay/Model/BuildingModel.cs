@@ -1,4 +1,5 @@
 ﻿using Gameplay.Acceleration;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using UniRx;
@@ -19,6 +20,9 @@ namespace Gameplay.Model
         public int MaxLevel =>
             _config.Levels.Count - 1;
 
+        public IReadOnlyReactiveProperty<bool> IsMaxLevel =>
+            _level.Select(l => l >= MaxLevel).ToReactiveProperty();
+
         public IReadOnlyDictionary<int, int> HealthPerLevel => _config.Levels
             .Select((config, index) => (config.Health, index))
             .Skip(1)
@@ -26,6 +30,9 @@ namespace Gameplay.Model
 
         public IReadOnlyReactiveProperty<int> Health =>
             _level.Select(level => level > 0 ? _config.Levels[level - 1].Health : 0).ToReactiveProperty();
+
+        public IReadOnlyReactiveProperty<TimeSpan> NextBuildDuration =>
+            _level.Select(l => _config.Levels[l].BuildDuration).ToReactiveProperty();
 
         public ReactiveCommand OnBuildingClick { get; }
 
