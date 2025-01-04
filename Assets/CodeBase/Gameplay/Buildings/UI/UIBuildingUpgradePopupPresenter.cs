@@ -1,5 +1,4 @@
-﻿using CodeBase.UI.Core;
-using Core.GameResources;
+﻿using UI.Core;
 using Currencies;
 using Cysharp.Threading.Tasks;
 using Gameplay.Buildings.Services;
@@ -30,8 +29,19 @@ namespace Gameplay.Buildings.UI
             var buildDuration = model.NextBuildDuration.Value;
             var amount = buildDuration.GetSkipHardCost();
 
-            /*await _view
-                .*/
+            await _view
+                .SetName(model.Name)
+                .SetLevel(model.Level.Value)
+                .SetCanUpgrade(await _buildingsService.CanUpgrade(model))
+                .SetUpgradeDuration(_timeHelper.TimeSpanToString(buildDuration))
+                .SetCanFastUpgrade(await _buildingsService.CanFastUpgrade(model))
+                .SetFastUpgradeCost(model.FastUpgradeCost)
+                .Show();
+
+            var requires =
+                _requireFactory.New()
+                .WithBuildings(model.UpgradeBuildingRequires)
+                .WithResources(model.UpgradeCost);  
         }
     }
 }

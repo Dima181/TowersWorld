@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zenject-PoolMonitor-Editor"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTask.DOTween", "UniTask.DOTween.csproj", "{69F0515E-2486-CB99-6D27-99DACACCDA52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{BD38D9A2-0CF0-7CF9-3B0C-7D7FF9642C0E}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTask.Editor", "UniTask.Editor.csproj", "{DABD085C-4401-0C78-CD08-AD52167E186F}"
 EndProject
 Global
@@ -111,6 +113,10 @@ Global
 		{69F0515E-2486-CB99-6D27-99DACACCDA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69F0515E-2486-CB99-6D27-99DACACCDA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69F0515E-2486-CB99-6D27-99DACACCDA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD38D9A2-0CF0-7CF9-3B0C-7D7FF9642C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD38D9A2-0CF0-7CF9-3B0C-7D7FF9642C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD38D9A2-0CF0-7CF9-3B0C-7D7FF9642C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD38D9A2-0CF0-7CF9-3B0C-7D7FF9642C0E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DABD085C-4401-0C78-CD08-AD52167E186F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DABD085C-4401-0C78-CD08-AD52167E186F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DABD085C-4401-0C78-CD08-AD52167E186F}.Release|Any CPU.ActiveCfg = Release|Any CPU

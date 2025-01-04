@@ -1,4 +1,5 @@
-﻿using Gameplay.Acceleration;
+﻿using Core;
+using Gameplay.Acceleration;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,6 +18,25 @@ namespace Gameplay.Model
         public IReadOnlyReactiveProperty<EBuildingState> State => _state;
         public BaseProgressTaskModel BuildProgressTask => _buildProgressTask;
 
+        public int FastUpgradeCost => _config.Levels[_level.Value].GemsCost;
+
+        public IReadOnlyDictionary<EBuilding, int> UpgradeBuildingRequires =>
+            _config.Levels[_level.Value].BuildingsRequires;
+
+        public IReadOnlyDictionary<EResource, int> UpgradeCost
+        {
+            get
+            {
+                var result = new Dictionary<EResource, int>();
+                var level = _config.Levels[_level.Value];
+
+                result.Add(EResource.Iron, level.ResourcesConfig.IronCost);
+                result.Add(EResource.Meat, level.ResourcesConfig.MeatCost);
+
+                return result;
+            }
+        }
+
         public int MaxLevel =>
             _config.Levels.Count - 1;
 
@@ -24,12 +44,12 @@ namespace Gameplay.Model
             _level.Select(l => l >= MaxLevel).ToReactiveProperty();
 
         public IReadOnlyDictionary<int, int> HealthPerLevel => _config.Levels
-            .Select((config, index) => (config.Health, index))
+            .Select((config, index) => (config.StateConfig.Health, index))
             .Skip(1)
             .ToDictionary(pair => pair.index, pair => pair.Health);
 
         public IReadOnlyReactiveProperty<int> Health =>
-            _level.Select(level => level > 0 ? _config.Levels[level - 1].Health : 0).ToReactiveProperty();
+            _level.Select(level => level > 0 ? _config.Levels[level - 1].StateConfig.Health : 0).ToReactiveProperty();
 
         public IReadOnlyReactiveProperty<TimeSpan> NextBuildDuration =>
             _level.Select(l => _config.Levels[l].BuildDuration).ToReactiveProperty();

@@ -3,6 +3,7 @@
     public enum EScene
     {
         Boot,
-        Gameplay
+        Gameplay,
+        Exploration
     }
 }

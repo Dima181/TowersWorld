@@ -1,4 +1,4 @@
-﻿using CodeBase.Core;
+﻿using Core;
 
 namespace Inventory.Items.Core
 {

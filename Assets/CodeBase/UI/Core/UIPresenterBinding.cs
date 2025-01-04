@@ -5,8 +5,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using Zenject;
 
-namespace CodeBase.UI.Core
+namespace UI.Core
 {
+
     [NoReflectionBaking]
     public class PresenterBindInfo
     {
@@ -20,7 +21,7 @@ namespace CodeBase.UI.Core
     [NoReflectionBaking]
     public class PresenterBindingFinalizer : IBindingFinalizer
     {
-        public BindingInheritanceMethods BindingInheritanceMethod => throw new NotImplementedException();
+        public BindingInheritanceMethods BindingInheritanceMethod => BindingInheritanceMethods.None;
         public readonly PresenterBindInfo Info;
 
         public PresenterBindingFinalizer(PresenterBindInfo presenterBindInfo)

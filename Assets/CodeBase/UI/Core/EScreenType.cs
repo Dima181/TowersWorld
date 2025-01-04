@@ -1,4 +1,4 @@
-﻿namespace CodeBase.UI.Core
+﻿namespace UI.Core
 {
     public enum EScreenType
     {

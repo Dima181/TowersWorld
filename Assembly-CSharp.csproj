@@ -61,86 +61,115 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CodeBase\Gameplay\Model\EBuildingState.cs" />
+    <Compile Include="Assets\CodeBase\Infrastructure\Scenes\SceneTransitions.cs" />
     <Compile Include="Assets\CodeBase\Requires\BuildingRequire.cs" />
     <Compile Include="Assets\CodeBase\Requires\UI\UIRequirePresenter.cs" />
     <Compile Include="Assets\CodeBase\Core\EResource.cs" />
     <Compile Include="Assets\CodeBase\Currencies\CurrencyExtension.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\Screens\UIGameplayScreensInstaller.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UIScreenView.cs" />
+    <Compile Include="Assets\CodeBase\UI\Core\UISubPresenterBinding.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Installers\ProjectContextInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Acceleration\BaseProgressTaskModel.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Model\BuildingsCollection.cs" />
+    <Compile Include="Assets\CodeBase\UI\Core\UIConstants.cs" />
+    <Compile Include="Assets\CodeBase\Core\BootAllSceneInstaller.cs" />
+    <Compile Include="Assets\CodeBase\Inventory\Items\CurrencyItemConfig.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UIScreenPresenterBase.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\Services\IBuildingsService.cs" />
     <Compile Include="Assets\CodeBase\Requires\ResourceRequire.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\Buildings\CannonTower\UI\UICannonTowerScreenView.cs" />
+    <Compile Include="Assets\CodeBase\Infrastructure\Scenes\Transitions\OutBlackScreenTransition.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\UI\BuildingsUIInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Model\BuildingStateHandler.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\UI\UIBuildingUpgradePopupView.cs" />
+    <Compile Include="Assets\CodeBase\Inventory\InventoryItems.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\TimeHelper\TimeHelper.cs" />
     <Compile Include="Assets\CodeBase\UI\UIInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Model\IBuildingInitializable.cs" />
+    <Compile Include="Assets\CodeBase\Infrastructure\Scenes\Transitions\NoTransition.cs" />
     <Compile Include="Assets\CodeBase\Inventory\Items\Core\StackableItemConfig.cs" />
     <Compile Include="Assets\CodeBase\Inventory\EInventoryTab.cs" />
-    <Compile Include="Assets\CodeBase\Gameplay\Buildings\CannonTower\Views\CannonTowerInteractionPanelView.cs" />
+    <Compile Include="Assets\CodeBase\Core\GameResources\IProtectedResource.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Model\BuildingBuilder.cs" />
-    <Compile Include="Assets\CodeBase\Gameplay\Buildings\CannonTower\Installer\CannonTowerInstaller.cs" />
     <Compile Include="Assets\CodeBase\Requires\IRequireVisitor.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\EBuildingUpgradeResult.cs" />
+    <Compile Include="Assets\CodeBase\Infrastructure\Scenes\ETransition.cs" />
     <Compile Include="Assets\CodeBase\Requires\UI\UIResourceRequireView.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\UI\UIBuildingInfoPopupView.cs" />
     <Compile Include="Assets\CodeBase\UI\UI Animation scripts\UIPopupAnimation.cs" />
+    <Compile Include="Assets\CodeBase\UIKit\MarkedButton.cs" />
+    <Compile Include="Assets\CodeBase\Core\GameResources\ResourcesModel.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Pipeline\DataProviders\ILocalDataProvider.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\View\BuildingViewInstaller.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UIScreenPresenter.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\HUD\UIGameplayHUDPresenter.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Installers\BuildingInstaller.cs" />
-    <Compile Include="Assets\CodeBase\Gameplay\Buildings\CannonTower\Views\DetailedScreen\UICannonTowerDetailed.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\View\BuildStateBuildingView.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\View\BootstrapView.cs" />
     <Compile Include="Assets\CodeBase\Requires\UI\UIRequireFactory.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Pipeline\DataProviders\IDataProvider.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Installers\BootstrapInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\UI\UIBuildingUpgradePopupPresenter.cs" />
-    <Compile Include="Assets\CodeBase\Gameplay\Buildings\CannonTower\Views\Description\UICannonTowerDescription.cs" />
+    <Compile Include="Assets\CodeBase\UI\GameScreens\ScreenHud\IUIHudScreenView.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Installers\StayStateInstaller.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Pipeline\DataProviders\LocalDataProvider.cs" />
     <Compile Include="Assets\CodeBase\Inventory\Items\Core\ItemModelBase.cs" />
-    <Compile Include="Assets\CodeBase\Inventory\Items\ResourceItems\ResourceItemModel.cs" />
     <Compile Include="Assets\CodeBase\Requires\UI\UIBuildingRequirePresenter.cs" />
+    <Compile Include="Assets\CodeBase\Inventory\Items\ResourceItems\ResourceItemModel.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\Buildings\CannonTower\UI\UICannonTowerScreenPresenter.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\UI\UIBuildingInfoPopupPresenter.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\Services\LocalBuildingsDataProvider.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UIRoot.cs" />
-    <Compile Include="Assets\CodeBase\Gameplay\Model\BuildingConfig.cs" />
     <Compile Include="Assets\CodeBase\Requires\UI\UIBuildingRequireView.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\Model\BuildingConfig.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\Buildings\CannonTower\Installers\UICannonTowerScreenInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\View\StayStateBuildingView.cs" />
     <Compile Include="Assets\CodeBase\Extensions\ZenjectExtensions.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\EScreenType.cs" />
+    <Compile Include="Assets\CodeBase\Core\GameResources\ResourceService.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UIPresenterBinding.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\GameplayUIInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\View\SiteStateBuildingView.cs" />
+    <Compile Include="Assets\CodeBase\Infrastructure\Scenes\Transitions\OutBlackScreenTransitionView.cs" />
+    <Compile Include="Assets\CodeBase\Inventory\Items\ResourceItems\ResourceItemsCollection.cs" />
     <Compile Include="Assets\CodeBase\Cam\CameraControlInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\View\BuildingSpawnPoint.cs" />
     <Compile Include="Assets\CodeBase\UI\UINavigator.cs" />
+    <Compile Include="Assets\CodeBase\Infrastructure\Scenes\Transitions\ITransition.cs" />
     <Compile Include="Assets\CodeBase\Inventory\Items\ResourceItems\ResourceItemConfig.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Installers\BuildStateInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\UI\UILevelHealthItem.cs" />
+    <Compile Include="Assets\CodeBase\Inventory\Items\ItemsCollectionBase.cs" />
     <Compile Include="Assets\CodeBase\Requires\RequireBuilder.cs" />
     <Compile Include="Assets\CodeBase\Extensions\CollectionsExtensions.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Pipeline\DataProviders\DataProvidersInstaller.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UIBindingExtensions.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\HUD\UIExplorationHUDButton.cs" />
     <Compile Include="Assets\CodeBase\UI\LookToCamera.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\Buildings\CannonTower\InfoPanel.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\View\BuildingView.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Model\BuildingLevelConfig.cs" />
+    <Compile Include="Assets\CodeBase\Infrastructure\Scenes\Transitions\CloudsTransition.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Scenes\SceneLoader.cs" />
     <Compile Include="Assets\CodeBase\Requires\UI\UIRequireView.cs" />
     <Compile Include="Assets\CodeBase\Core\GameExtentions.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\HUD\UIGameplayHUDView.cs" />
     <Compile Include="Assets\CodeBase\Inventory\Items\Core\ItemConfigBase.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Bootstrap.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Installers\SiteStateInstaller.cs" />
+    <Compile Include="Assets\CodeBase\Infrastructure\Scenes\ScenesFlowInstaller.cs" />
+    <Compile Include="Assets\CodeBase\Inventory\Items\CurrencyItemModel.cs" />
     <Compile Include="Assets\CodeBase\UI\UIUtilities.cs" />
     <Compile Include="Assets\CodeBase\Requires\UI\UIResourceRequirePresenter.cs" />
-    <Compile Include="Assets\CodeBase\Infrastructure\Scenes\EScene.cs" />
     <Compile Include="Assets\CodeBase\Requires\CompositeRequire.cs" />
+    <Compile Include="Assets\CodeBase\Infrastructure\Scenes\EScene.cs" />
+    <Compile Include="Assets\CodeBase\Infrastructure\Scenes\Transitions\CloudsTransitionView.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Model\EBuilding.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Model\IBuildingStateHandler.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\Buildings\CannonTower\Installers\CannonTowerInstaller.cs" />
     <Compile Include="Assets\CodeBase\Requires\RequireFactory.cs" />
+    <Compile Include="Assets\CodeBase\Inventory\InventoryModel.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Acceleration\BaseProgressTaskView.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UIScreenSubPresenter.cs" />
     <Compile Include="Assets\CodeBase\Inventory\Items\Core\StackableItemModel.cs" />
@@ -148,6 +177,7 @@
     <Compile Include="Assets\CodeBase\Core\GameResources\Configs\ResourcesConfig.cs" />
     <Compile Include="Assets\CodeBase\Core\GameResources\IResources.cs" />
     <Compile Include="Assets\CodeBase\Requires\IRequire.cs" />
+    <Compile Include="Assets\CodeBase\Inventory\InventoryDataProvider.cs" />
     <Compile Include="Assets\CodeBase\Requires\RequiresInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Model\BuildingModel.cs" />
   </ItemGroup>
@@ -519,6 +549,10 @@
       <HintPath>Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.Pdb.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\Plugins\DOTween\DOTween.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Zenject.ReflectionBaking.Mono.Cecil.Rocks">
       <HintPath>Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.Rocks.dll</HintPath>
       <Private>False</Private>
@@ -533,10 +567,6 @@
     </Reference>
     <Reference Include="Zenject.ReflectionBaking.Mono.Cecil">
       <HintPath>Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTween">
-      <HintPath>Assets\Plugins\DOTween\DOTween.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
@@ -1051,6 +1081,14 @@
       <HintPath>Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="AYellowpaper.SerializedCollections.Editor">
+      <HintPath>Library\ScriptAssemblies\AYellowpaper.SerializedCollections.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
       <Private>False</Private>
@@ -1095,6 +1133,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="AYellowpaper.SerializedCollections">
+      <HintPath>Library\ScriptAssemblies\AYellowpaper.SerializedCollections.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
       <Private>False</Private>
@@ -1137,6 +1179,10 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>Library\ScriptAssemblies\Cinemachine.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">

@@ -1,4 +1,5 @@
-﻿using Cysharp.Threading.Tasks;
+﻿using UI.Core;
+using Cysharp.Threading.Tasks;
 using System;
 using UniRx;
 using UnityEngine;
@@ -7,9 +8,10 @@ using Zenject;
 
 namespace Infrastructure.Scenes
 {
-    public class SceneLoader : MonoBehaviour
+    public class SceneLoader
     {
         public const string GAMEPLAY_SCENE = "Gameplay";
+        public const string EXPLORATION_SCENE = "Exploration_scene";
         public const string EMPTY_SCENE = "Empty";
 
         public IReadOnlyReactiveProperty<EScene> CurentScene => _curentScene;
@@ -29,6 +31,19 @@ namespace Infrastructure.Scenes
             }
 
             await LoadScene(EScene.Gameplay, GAMEPLAY_SCENE, sceneActivationDelay, progressCallback);
+        }
+
+        public async UniTask LoadExploration(bool forceReload = false,
+            Action<float> progressCallback = null,
+            float sceneActivationDelay = 0)
+        {
+            if(_curentScene.Value == EScene.Exploration && !forceReload)
+            {
+                Debug.LogError("Already on Exploration Scene");
+                return;
+            }
+
+            await LoadScene(EScene.Exploration, EXPLORATION_SCENE, sceneActivationDelay, progressCallback);
         }
 
         private async UniTask LoadScene(
@@ -113,5 +128,6 @@ namespace Infrastructure.Scenes
                 await UniTask.NextFrame();
             }
         }
+
     }
 }

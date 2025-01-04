@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace CodeBase.Core
+namespace Core
 {
     public enum EResource
     {
@@ -8,5 +8,13 @@ namespace CodeBase.Core
         None = 0,
         Iron = 1,
         Meat = 2
+    }
+
+    public static class ResourceExt
+    {
+        public static bool IsProtectable(this EResource resource) =>
+            resource is
+                EResource.Iron or
+                EResource.Meat;
     }
 }

@@ -13,7 +13,7 @@ namespace Gameplay.View
         [SerializeField] private TextMeshProUGUI _nameText;
         [SerializeField] private Canvas[] _worldCanvases;
 
-        private Subject<Unit> _onClickSubject;
+        private Subject<Unit> _onClickSubject = new();
         private Vector3 _startMousePos;
 
         public void SetWorldCanvases(Camera worldCamera)

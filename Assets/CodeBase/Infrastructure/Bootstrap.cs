@@ -1,6 +1,7 @@
 ﻿using Cysharp.Threading.Tasks;
 using Infrastructure.Pipeline.DataProviders;
 using Infrastructure.Scenes;
+using Infrastructure.Transitions;
 using Infrastructure.View;
 using System;
 using UnityEngine;
@@ -12,6 +13,9 @@ namespace Infrastructure
     {
         [Inject] private readonly BootstrapView _view;
         [Inject] private readonly SceneLoader _sceneLoader;
+
+        [Inject] private readonly OutBlackScreenTransition _blackTransition;
+        [Inject] private readonly CloudsTransition _cloudsTransition;
 
         public async void Initialize()
         {
@@ -30,9 +34,14 @@ namespace Infrastructure
             await InitializeData(di, disposableManager, pr =>
                 ApplyProgress(0.1f + pr * 0.25f));
 
-            await _sceneLoader.LoadGameplay();
+            /*await _sceneLoader.LoadGameplay();*/
 
-            GameObject.Destroy(_view.gameObject);
+            await _blackTransition.ApplyTransition(async () =>
+            {
+                await _sceneLoader.LoadGameplay();
+
+                GameObject.Destroy(_view.gameObject);
+            });
         }
 
         private async UniTask InitializeData(

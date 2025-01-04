@@ -5,7 +5,7 @@ using UI.Core;
 using UniRx;
 using Zenject;
 
-namespace CodeBase.UI.Core
+namespace UI.Core
 {
     public interface IUIScreenPresenter : IDisposable
     {

@@ -1,8 +1,8 @@
-﻿using CodeBase.Core;
-using CodeBase.UI.Core;
+﻿using Core;
 using Cysharp.Threading.Tasks;
 using Gameplay.Model;
 using System.Collections.Generic;
+using UI.Core;
 using UniRx;
 
 namespace Gameplay.Buildings.UI

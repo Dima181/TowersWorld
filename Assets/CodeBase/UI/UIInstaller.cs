@@ -1,5 +1,4 @@
-﻿using CodeBase.UI.Core;
-using UI.Core;
+﻿using UI.Core;
 using Zenject;
 
 namespace UI
@@ -8,7 +7,7 @@ namespace UI
         where THudPresenter : UIScreenPresenter<THudView>, ISimpleUIScreenPresenter
         where THudView : UIScreenView
     {
-        protected abstract string HudScreenPath { get; }
+        protected abstract string HudPrefabPath { get; }
 
         public override void InstallBindings()
         {
@@ -22,15 +21,19 @@ namespace UI
             Container.BindInitializableExecutionOrder<UINavigator>(-200);
 
             Container.Bind<THudView>()
-                .FromComponentInNewPrefabResource(HudScreenPath)
+                .FromComponentInNewPrefabResource(HudPrefabPath)
                 .WithGameObjectName("HUD")
                 .UnderTransform(ic => ic.Container.Resolve<UIRoot>().Screens.transform)
                 .AsSingle()
-                .OnInstantiated<THudView>((ic, o) => o.gameObject.SetActive(false));
+                .OnInstantiated<THudView>((ic, o) => o.gameObject.SetActive(true)); // Поменять потом на false
 
             Container.Bind<THudPresenter>()
                 .AsSingle()
-                .WithArgumentsExplicit(new[] { new TypeValuePair(typeof(EScreenType), EScreenType.Screen) });
+                .WithArgumentsExplicit(new[] { new TypeValuePair(typeof(EScreenType), EScreenType.Screen) })
+                .OnInstantiated<THudPresenter>((ic, presenter) =>
+                {
+                    presenter.ShowAndForget();
+                });
 
             Container.Bind<ISimpleUIScreenPresenter>()
                 .WithId("HUD")

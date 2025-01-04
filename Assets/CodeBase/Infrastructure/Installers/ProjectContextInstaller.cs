@@ -1,15 +1,23 @@
-﻿using Infrastructure.Scenes;
+﻿using Core;
+using Infrastructure.Scenes;
+using Unity.VisualScripting;
+using UnityEngine;
 using Zenject;
 
 namespace Infrastructure.Installers
 {
-    public class ProjectContextInstaller : MonoInstaller
+    public class ProjectInstaller : MonoInstaller
     {
         public override void InstallBindings()
         {
-            Container.Bind<SceneLoader>()
-                .FromComponentInHierarchy()
-                .AsSingle();
+            Install<ScenesFlowInstaller>();
+            Install<BootAllSceneInstaller>();
+        }
+
+        private void Install<T>() where T : Installer<T>
+        {
+            Installer<T>.Install(Container);
+            Debug.Log($"[PROJECT INSTALLER] Install: <b>{typeof(T).Name}</b>");
         }
     }
 }

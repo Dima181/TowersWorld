@@ -3,7 +3,7 @@ using System.Globalization;
 using TMPro;
 using UnityEngine;
 
-namespace CodeBase.Core
+namespace Core
 {
     public static class GameExtentions
     {

@@ -1,6 +1,6 @@
 ﻿using Zenject;
 
-namespace CodeBase.UI.Core
+namespace UI.Core
 {
     public static class UIBindingExtensions
     {
@@ -8,6 +8,12 @@ namespace CodeBase.UI.Core
             where TPresenter : IUIScreenPresenter
         {
             return new PresenterBinderGeneric<TPresenter>(di.StartBinding());
+        }
+
+        public static SubPresenterBinderGeneric<TSubPresenter> BindSubPresenter<TSubPresenter>(this DiContainer di)
+            where TSubPresenter : IUIScreenSubPresenter
+        {
+            return new SubPresenterBinderGeneric<TSubPresenter>(di.StartBinding());
         }
     }
 }

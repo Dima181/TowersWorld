@@ -3,7 +3,7 @@ using UniRx;
 using UnityEngine;
 using Zenject;
 
-namespace CodeBase.UI.Core
+namespace UI.Core
 {
     public interface IUIScreenSubPresenter
     {

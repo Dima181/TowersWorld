@@ -1,4 +1,4 @@
-﻿using CodeBase.UI.Core;
+﻿using UI.Core;
 using TMPro;
 using UI;
 using UnityEngine;

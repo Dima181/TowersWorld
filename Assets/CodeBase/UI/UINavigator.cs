@@ -1,4 +1,4 @@
-﻿using CodeBase.UI.Core;
+﻿using UI.Core;
 using System;
 using System.Collections.Generic;
 using UnityEngine;

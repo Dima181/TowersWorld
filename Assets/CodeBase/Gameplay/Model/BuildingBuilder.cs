@@ -39,22 +39,20 @@ namespace Gameplay.Model
         }
 
         public BuildingBuilder AddLevels(
-            int[] health,
-            float[] shootInterval,
-            float[] range,
-            GameObject[] projectilePrefab,
-            float[] lastShotTime,
+            int levels,
+            BuildingStateConfig[] stateConfig,
+            BuildingResourcesConfig[] resourcesConfig,
+            int[] gemsCost,
             TimeSpan[] buildDurations,
             Dictionary<EBuilding, int>[] upgradeRequires)
         {
-            for (int i = 0; i < shootInterval.Length; i++)
+            for (int i = 0; i < levels; i++)
             {
                 _levels.Add(new BuildingLevelConfig(
-                    health[i],
-                    shootInterval[i],
-                    range[i],
-                    projectilePrefab[i],
-                    lastShotTime[i],
+
+                    stateConfig[i],
+                    resourcesConfig[i],
+                    gemsCost[i],
                     buildDurations[i],
                     upgradeRequires[i]));
             }

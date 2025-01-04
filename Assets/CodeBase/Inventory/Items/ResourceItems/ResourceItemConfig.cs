@@ -1,9 +1,10 @@
-﻿using CodeBase.Core;
+﻿using Core;
 using Inventory.Items.Core;
 using UnityEngine;
 
 namespace Inventory.Items.ResourceItems
 {
+    [CreateAssetMenu(menuName = "Inventory/Resource item config")]
     public class ResourceItemConfig : StackableItemConfig
     {
         [SerializeField] private EResource _resourceType;

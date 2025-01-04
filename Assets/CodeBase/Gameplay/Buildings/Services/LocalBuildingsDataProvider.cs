@@ -64,11 +64,43 @@ namespace Gameplay.Buildings.Services
             float[] lastShotTime = new[] { -0.5f, -0.45f, -0.4f, -0.35f, -0.3f };
             TimeSpan[] durs = new TimeSpan[] { S(2), S(6), S(30), M(1.5f), M(3) };
 
+            int[] ironCost = new[] { 5, 10, 15, 15, 15 };
+            int[] meatCost = new[] { 5, 10, 15, 15, 15 };
+            int[] geamsCost = new[] { 3, 3, 3, 3, 3 };
+
+            BuildingStateConfig[] stateConfig = new[]
+            {
+                new BuildingStateConfig(10, 0.5f, 8, bullet_1, -0.5f),
+                new BuildingStateConfig(10, 0.5f, 8, bullet_1, -0.5f),
+                new BuildingStateConfig(10, 0.5f, 8, bullet_1, -0.5f),
+                new BuildingStateConfig(10, 0.5f, 8, bullet_1, -0.5f),
+                new BuildingStateConfig(10, 0.5f, 8, bullet_1, -0.5f),
+            };
+            
+            BuildingResourcesConfig[] resourcesConfig = new[]
+            {
+                new BuildingResourcesConfig(10, 15),
+                new BuildingResourcesConfig(10, 15),
+                new BuildingResourcesConfig(10, 15),
+                new BuildingResourcesConfig(10, 15),
+                new BuildingResourcesConfig(10, 15),
+            };
+
+            /*for (int i = 0; i < health.Length; i++)
+            {
+                levels.Add(new BuildingLevelConfig(
+                    new BuildingStateConfig(health[i], shootInterval[i], range[i], projectilePrefab[i], lastShotTime[i]),
+                    new BuildingResourcesConfig(ironCost[i], meatCost[i]),
+                    geamsCost[i],
+                    durs[i],
+                    BaseRequiers(1, 5)
+            }*/
+
             return new BuildingBuilder()
                 .WithId(EBuilding.CannonTower)
                 .WithName("CannonTower")
                 .InitialSite()
-                .AddLevels(health, shootInterval, range, projectilePrefab, lastShotTime, durs, BaseRequiers(1, 5))
+                .AddLevels(resourcesConfig.Length, stateConfig, resourcesConfig, geamsCost, durs, BaseRequiers(1, 5))
                 .Build();
 
         }
@@ -90,13 +122,51 @@ namespace Gameplay.Buildings.Services
             string name,
             bool stay = false)
         {
+
             var productiveConfig = new BuildingConfig(new[]
             {
-                new BuildingLevelConfig(10, 0.5f, 8, bullet_1, -0.5f, M(1), unlockRequires),
-                new BuildingLevelConfig(15, 0.45f, 8, bullet_1, -0.45f, M(2), BASE_REQUIRE_1),
-                new BuildingLevelConfig(20, 0.4f, 8, bullet_1, -0.4f, M(3), BASE_REQUIRE_2),
-                new BuildingLevelConfig(25, 0.35f, 8, bullet_1, -0.35f, M(4), BASE_REQUIRE_3),
-                new BuildingLevelConfig(30, 0.3f, 8, bullet_1, -0.3f, M(5), BASE_REQUIRE_4)
+                /*new BuildingLevelConfig(10, 0.5f, 8, bullet_1, -0.5f, 3, M(1), unlockRequires),
+                new BuildingLevelConfig(15, 0.45f, 8, bullet_1, -0.45f, 3, M(2), BASE_REQUIRE_1),
+                new BuildingLevelConfig(20, 0.4f, 8, bullet_1, -0.4f, 3, M(3), BASE_REQUIRE_2),
+                new BuildingLevelConfig(25, 0.35f, 8, bullet_1, -0.35f, 3, M(4), BASE_REQUIRE_3),
+                new BuildingLevelConfig(30, 0.3f, 8, bullet_1, -0.3f, 3, M(5), BASE_REQUIRE_4)*/
+
+                new BuildingLevelConfig(
+                    new BuildingStateConfig(10, 0.5f, 8, bullet_1, -0.5f),
+                    new BuildingResourcesConfig(10, 15),
+                    10,
+                    M(1),
+                    unlockRequires
+                ),
+                new BuildingLevelConfig(
+                    new BuildingStateConfig(10, 0.5f, 8, bullet_1, -0.5f),
+                    new BuildingResourcesConfig(10, 15),
+                    10,
+                    M(1),
+                    BASE_REQUIRE_1
+                ), 
+                new BuildingLevelConfig(
+                    new BuildingStateConfig(10, 0.5f, 8, bullet_1, -0.5f),
+                    new BuildingResourcesConfig(10, 15),
+                    10,
+                    M(1),
+                    BASE_REQUIRE_1
+                ), 
+                new BuildingLevelConfig(
+                    new BuildingStateConfig(10, 0.5f, 8, bullet_1, -0.5f),
+                    new BuildingResourcesConfig(10, 15),
+                    10,
+                    M(1),
+                    BASE_REQUIRE_1
+                ), 
+                new BuildingLevelConfig(
+                    new BuildingStateConfig(10, 0.5f, 8, bullet_1, -0.5f),
+                    new BuildingResourcesConfig(10, 15),
+                    10,
+                    M(1),
+                    BASE_REQUIRE_1
+                ), 
+
             }, EBuildingState.Site, 0);
 
             return new BuildingModel(

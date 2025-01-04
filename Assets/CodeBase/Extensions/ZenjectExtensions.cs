@@ -34,6 +34,20 @@ namespace Extensions
             return new Type[0];
         }
 
+        public static Type[] GetArgumentsOfInheritedOpenGenericInterface(this Type type, Type openGenericType)
+        {
+            foreach (var i in type.GetInterfaces())
+                if (i.IsGenericType && i.GetGenericTypeDefinition() == openGenericType)
+                    return i.GetGenericArguments();
+            return new Type[0];
+        }
+
+        public static Type GetGenericBaseType(this Type type, Type openGenericType)
+        {
+            var needType = type.GetNestedType(openGenericType.Name);
+            return needType;
+        }
+
         public static string SplitPascalCase(this string str)
         {
             StringBuilder builder = new(str.Length);

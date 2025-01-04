@@ -2,7 +2,7 @@
 using UnityEngine;
 using Zenject;
 
-namespace CodeBase.UI.Core
+namespace UI.Core
 {
     public class UIRoot : MonoBehaviour
     {
