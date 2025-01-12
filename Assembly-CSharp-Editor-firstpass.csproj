@@ -1170,9 +1170,17 @@
       <Project>{4397BB28-A26E-6080-75F0-69207CFAAD35}</Project>
       <Name>Zenject-PoolMonitor-Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="MackySoft.SerializeReferenceExtensions.Editor.csproj">
+      <Project>{F59F21E9-A069-496E-5DA0-33E9921D26C3}</Project>
+      <Name>MackySoft.SerializeReferenceExtensions.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="UniTask.DOTween.csproj">
       <Project>{69F0515E-2486-CB99-6D27-99DACACCDA52}</Project>
       <Name>UniTask.DOTween</Name>
+    </ProjectReference>
+    <ProjectReference Include="MackySoft.SerializeReferenceExtensions.csproj">
+      <Project>{6DAB658A-43FD-F8C0-C8E5-7EEACBA678CE}</Project>
+      <Name>MackySoft.SerializeReferenceExtensions</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -343,6 +343,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/AYellowpaper.SerializedCollections.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/MackySoft.SerializeReferenceExtensions.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/MackySoft.SerializeReferenceExtensions.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UniRx.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UniTask.Addressables.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UniTask.DOTween.ref.dll"

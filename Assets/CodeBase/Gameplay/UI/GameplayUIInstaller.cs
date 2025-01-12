@@ -2,6 +2,8 @@
 using Gameplay.Buildings.CannonTower.UI;
 using Gameplay.Buildings.UI;
 using Gameplay.UI.HUD;
+using Gameplay.UI.Popups;
+using Gameplay.UI.Popups.BuildingInteractionsPopup;
 using Gameplay.UI.Screens;
 using System;
 using UI;
@@ -19,21 +21,9 @@ namespace Gameplay.UI
             UIGameplayScreensInstaller.Install(Container);
             BuildingsUIInstaller.Install(Container);
             /*BootAllSceneInstaller.Install(Container);*/
-        }
 
-        private void NewMethod()
-        {
-            // Проверить, разрешается ли UIGameplayHUDPresenter
-            try
-            {
-                var presenter = Container.Resolve<UIGameplayHUDPresenter>();
-                Debug.Log($"Presenter resolved: {presenter != null}");
-                /*presenter.Show();*/
-            }
-            catch (Exception ex)
-            {
-                Debug.LogError($"Error resolving UIGameplayHUDPresenter: {ex.Message}");
-            }
+            UIGameplayPopupsInstaller.Install(Container);
+            InteractionConfiguratorsInstaller.Install(Container);
         }
     }
 }

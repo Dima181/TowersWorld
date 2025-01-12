@@ -7,7 +7,8 @@ namespace Core
         [HideInInspector]
         None = 0,
         Iron = 1,
-        Meat = 2
+        Meat = 2,
+        Gems = 3
     }
 
     public static class ResourceExt

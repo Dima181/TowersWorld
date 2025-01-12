@@ -14,7 +14,7 @@ namespace Gameplay.Buildings.UI
     {
         public IObservable<Unit> OnCloseClicked => _closeButton.OnClickAsObservable().Merge(_backgroundCloseButton.OnClickAsObservable());
 
-        public IObservable<Unit> OnUpgradeCLicked => _upgradeButton.OnClickAsObservable();
+        public IObservable<Unit> OnUpgradeClicked => _upgradeButton.OnClickAsObservable();
 
         public IObservable<Unit> OnFastUpgradeClicked => _fastUpgradeButton.OnClickAsObservable();
 

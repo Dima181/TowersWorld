@@ -1,5 +1,6 @@
 ﻿using Core;
 using Infrastructure.Scenes;
+using Infrastructure.TimeHelp;
 using Unity.VisualScripting;
 using UnityEngine;
 using Zenject;
@@ -12,6 +13,7 @@ namespace Infrastructure.Installers
         {
             Install<ScenesFlowInstaller>();
             Install<BootAllSceneInstaller>();
+            Install<TimeInstaller>();
         }
 
         private void Install<T>() where T : Installer<T>

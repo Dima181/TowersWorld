@@ -50,6 +50,9 @@ namespace Gameplay.View
             _view = view;
             _model = model;
             Debug.Log(_model.Name);
+
+            Debug.Log(_view);
+            Debug.Log(_model);
         }
 
         public void Dispose() =>
@@ -64,8 +67,11 @@ namespace Gameplay.View
             _disposable = new();
 
             _view.OnClick
-                .Subscribe(_ => _model.OnBuildingClick.Execute())
-                .AddTo(_disposable);
+                .Subscribe(_ =>
+                {
+                    _model.OnBuildingClick?.Execute();
+                    /*_model.OnBuildingClick.Execute())*/
+                }).AddTo(_disposable);
 
             _model.BuildingPoint = _view.gameObject;
         }

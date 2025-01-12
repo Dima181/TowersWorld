@@ -63,9 +63,11 @@
     <Compile Include="Assets\CodeBase\Gameplay\Model\EBuildingState.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Scenes\SceneTransitions.cs" />
     <Compile Include="Assets\CodeBase\Requires\BuildingRequire.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\Popups\BuildingInteractionsPopup\PopupPresenter.cs" />
     <Compile Include="Assets\CodeBase\Requires\UI\UIRequirePresenter.cs" />
     <Compile Include="Assets\CodeBase\Core\EResource.cs" />
     <Compile Include="Assets\CodeBase\Currencies\CurrencyExtension.cs" />
+    <Compile Include="Assets\CodeBase\Infrastructure\TimeHelp\TimeHelper.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\UI\Screens\UIGameplayScreensInstaller.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UIScreenView.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UISubPresenterBinding.cs" />
@@ -73,18 +75,23 @@
     <Compile Include="Assets\CodeBase\Gameplay\Acceleration\BaseProgressTaskModel.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Model\BuildingsCollection.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UIConstants.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\Buildings\Interations\Implementations\ShowBuildingInfoWindowData.cs" />
     <Compile Include="Assets\CodeBase\Core\BootAllSceneInstaller.cs" />
     <Compile Include="Assets\CodeBase\Inventory\Items\CurrencyItemConfig.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\Popups\BuildingInteractionsPopup\PopupContext.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UIScreenPresenterBase.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\Popups\BuildingInteractionsPopup\InteractionConfigurator\ShowBuildingUpdateWindowConfigurator.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\Services\IBuildingsService.cs" />
     <Compile Include="Assets\CodeBase\Requires\ResourceRequire.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\CannonTower\UI\UICannonTowerScreenView.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\Buildings\Interations\InteractionArguments.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\Popups\UIGameplayPopupsInstaller.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\Buildings\Interations\InteractionsInstaller.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Scenes\Transitions\OutBlackScreenTransition.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\UI\BuildingsUIInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Model\BuildingStateHandler.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\UI\UIBuildingUpgradePopupView.cs" />
     <Compile Include="Assets\CodeBase\Inventory\InventoryItems.cs" />
-    <Compile Include="Assets\CodeBase\Infrastructure\TimeHelper\TimeHelper.cs" />
     <Compile Include="Assets\CodeBase\UI\UIInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Model\IBuildingInitializable.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Scenes\Transitions\NoTransition.cs" />
@@ -100,7 +107,9 @@
     <Compile Include="Assets\CodeBase\UI\UI Animation scripts\UIPopupAnimation.cs" />
     <Compile Include="Assets\CodeBase\UIKit\MarkedButton.cs" />
     <Compile Include="Assets\CodeBase\Core\GameResources\ResourcesModel.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\Popups\BuildingInteractionsPopup\InteractionConfigurator\AbstractInteractionConfigurator.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Pipeline\DataProviders\ILocalDataProvider.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\Popups\BuildingInteractionsPopup\InteractionConfigurator\ShowBuildingInfoWindowConfigurator.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\View\BuildingViewInstaller.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UIScreenPresenter.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\UI\HUD\UIGameplayHUDPresenter.cs" />
@@ -112,29 +121,38 @@
     <Compile Include="Assets\CodeBase\Infrastructure\Installers\BootstrapInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\UI\UIBuildingUpgradePopupPresenter.cs" />
     <Compile Include="Assets\CodeBase\UI\GameScreens\ScreenHud\IUIHudScreenView.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\Buildings\Interations\Implementations\ShowBuildingUpgradeWindowData.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Installers\StayStateInstaller.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\Buildings\Interations\InteractionsPresenter.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Pipeline\DataProviders\LocalDataProvider.cs" />
     <Compile Include="Assets\CodeBase\Inventory\Items\Core\ItemModelBase.cs" />
     <Compile Include="Assets\CodeBase\Requires\UI\UIBuildingRequirePresenter.cs" />
     <Compile Include="Assets\CodeBase\Inventory\Items\ResourceItems\ResourceItemModel.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\Buildings\Interations\IInteractionData.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\CannonTower\UI\UICannonTowerScreenPresenter.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\UI\UIBuildingInfoPopupPresenter.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\Services\LocalBuildingsDataProvider.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\Popups\BuildingInteractionsPopup\IInteractionConfigurator.cs" />
+    <Compile Include="Assets\CodeBase\Infrastructure\TimeHelp\TimeInstaller.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UIRoot.cs" />
     <Compile Include="Assets\CodeBase\Requires\UI\UIBuildingRequireView.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Model\BuildingConfig.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\Popups\BuildingInteractionsPopup\IPopupContext.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Buildings\CannonTower\Installers\UICannonTowerScreenInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\View\StayStateBuildingView.cs" />
     <Compile Include="Assets\CodeBase\Extensions\ZenjectExtensions.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\Popups\BuildingInteractionsPopup\EButtonId.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\EScreenType.cs" />
     <Compile Include="Assets\CodeBase\Core\GameResources\ResourceService.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UIPresenterBinding.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\Popups\BuildingInteractionsPopup\InteractionConfiguratorsInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\UI\GameplayUIInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\View\SiteStateBuildingView.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Scenes\Transitions\OutBlackScreenTransitionView.cs" />
     <Compile Include="Assets\CodeBase\Inventory\Items\ResourceItems\ResourceItemsCollection.cs" />
     <Compile Include="Assets\CodeBase\Cam\CameraControlInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\View\BuildingSpawnPoint.cs" />
+    <Compile Include="Assets\CodeBase\Infrastructure\Pipeline\Services\ILocalService.cs" />
     <Compile Include="Assets\CodeBase\UI\UINavigator.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Scenes\Transitions\ITransition.cs" />
     <Compile Include="Assets\CodeBase\Inventory\Items\ResourceItems\ResourceItemConfig.cs" />
@@ -145,6 +163,7 @@
     <Compile Include="Assets\CodeBase\Extensions\CollectionsExtensions.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Pipeline\DataProviders\DataProvidersInstaller.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UIBindingExtensions.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\Buildings\Interations\InteractionDataProvider.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\UI\HUD\UIExplorationHUDButton.cs" />
     <Compile Include="Assets\CodeBase\UI\LookToCamera.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\UI\Buildings\CannonTower\InfoPanel.cs" />
@@ -171,14 +190,18 @@
     <Compile Include="Assets\CodeBase\Requires\RequireFactory.cs" />
     <Compile Include="Assets\CodeBase\Inventory\InventoryModel.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Acceleration\BaseProgressTaskView.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\Buildings\Interations\IInteractionDataProvider.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\Buildings\Services\LocalBuildingsService.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UIScreenSubPresenter.cs" />
     <Compile Include="Assets\CodeBase\Inventory\Items\Core\StackableItemModel.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\Popups\BuildingInteractionsPopup\IPopupView.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Model\IBuildingDisposable.cs" />
     <Compile Include="Assets\CodeBase\Core\GameResources\Configs\ResourcesConfig.cs" />
     <Compile Include="Assets\CodeBase\Core\GameResources\IResources.cs" />
     <Compile Include="Assets\CodeBase\Requires\IRequire.cs" />
     <Compile Include="Assets\CodeBase\Inventory\InventoryDataProvider.cs" />
     <Compile Include="Assets\CodeBase\Requires\RequiresInstaller.cs" />
+    <Compile Include="Assets\CodeBase\Gameplay\UI\Popups\BuildingInteractionsPopup\PopupView.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Model\BuildingModel.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -1231,9 +1254,17 @@
       <Project>{4397BB28-A26E-6080-75F0-69207CFAAD35}</Project>
       <Name>Zenject-PoolMonitor-Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="MackySoft.SerializeReferenceExtensions.Editor.csproj">
+      <Project>{F59F21E9-A069-496E-5DA0-33E9921D26C3}</Project>
+      <Name>MackySoft.SerializeReferenceExtensions.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="UniTask.DOTween.csproj">
       <Project>{69F0515E-2486-CB99-6D27-99DACACCDA52}</Project>
       <Name>UniTask.DOTween</Name>
+    </ProjectReference>
+    <ProjectReference Include="MackySoft.SerializeReferenceExtensions.csproj">
+      <Project>{6DAB658A-43FD-F8C0-C8E5-7EEACBA678CE}</Project>
+      <Name>MackySoft.SerializeReferenceExtensions</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

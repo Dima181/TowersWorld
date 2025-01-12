@@ -1,4 +1,5 @@
-﻿using UI.Core;
+﻿using Requires;
+using UI.Core;
 using Zenject;
 
 namespace UI
@@ -40,7 +41,7 @@ namespace UI
                 .FromResolveGetter<THudPresenter>(t => t)
                 .AsSingle();
 
-
+            RequiresInstaller.Install(Container);
             InstallBindingsInternal();
         }
 

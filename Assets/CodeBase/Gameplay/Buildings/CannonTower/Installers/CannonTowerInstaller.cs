@@ -25,9 +25,11 @@ namespace Gameplay.Buildings.CannonTower.Installers
 
         private IDisposable _disposable;
 
-        public void Initialize() => 
-            _disposable = _buildingView.OnClick
-                .Subscribe(_ => _uiNAvigator.Perform<UICannonTowerScreenPresenter>(p => p.ShowAndForget()));
+        public void Initialize()
+        {
+            /*_disposable = _buildingView.OnClick
+                .Subscribe(_ => _uiNAvigator.Perform<UICannonTowerScreenPresenter>(p => p.ShowAndForget()));*/
+        }
 
         public void Dispose() => 
             _disposable?.Dispose();

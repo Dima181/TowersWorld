@@ -9,7 +9,7 @@ namespace Gameplay.View
     {
         public override void InstallBindings()
         {
-            Debug.Log(nameof(BuildingViewInstaller));
+            /*Debug.Log(nameof(BuildingViewInstaller));*/
 
             Container.Bind<BuildingView>()
                 .FromRootComponent(this)

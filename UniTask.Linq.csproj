@@ -62,8 +62,8 @@
   <ItemGroup>
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\TakeLast.cs" />
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\UnityExtensions\EveryUpdate.cs" />
-    <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\Zip.cs" />
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\AsyncEnumeratorBase.cs" />
+    <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\Zip.cs" />
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\Cast.cs" />
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\ToArray.cs" />
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\ToDictionary.cs" />

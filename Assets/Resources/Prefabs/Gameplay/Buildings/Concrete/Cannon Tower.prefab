@@ -171,6 +171,12 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 8919878891848766635, guid: a8ac75345c7fb9b42a60d1d79af5e19d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 7236467813830388836}
+    - targetCorrespondingSourceObject: {fileID: 8919878891848766635, guid: a8ac75345c7fb9b42a60d1d79af5e19d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2214832959394248296}
+    - targetCorrespondingSourceObject: {fileID: 8919878891848766635, guid: a8ac75345c7fb9b42a60d1d79af5e19d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5894456519571006938}
   m_SourcePrefab: {fileID: 100100000, guid: a8ac75345c7fb9b42a60d1d79af5e19d, type: 3}
 --- !u!1 &5413671110378694475 stripped
 GameObject:
@@ -189,6 +195,42 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2bf5f5b91ee07144f91ff479a0de21d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &2214832959394248296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5413671110378694475}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b298bb7e855314429f4138b972436bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5894456519571006938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5413671110378694475}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62d9b9bf608edb141846a90a58063cfd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _interactionData:
+  - rid: 8358040149310832643
+  - rid: 8358040149310832642
+  references:
+    version: 2
+    RefIds:
+    - rid: 8358040149310832642
+      type: {class: ShowBuildingUpgradeWindowData, ns: Gameplay.Buildings.Interations.Implementations, asm: Assembly-CSharp}
+      data: 
+    - rid: 8358040149310832643
+      type: {class: ShowBuildingInfoWindowData, ns: Gameplay.Buildings.Interations.Implementations, asm: Assembly-CSharp}
+      data: 
 --- !u!4 &8296567932436964226 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4885186466260537442, guid: a8ac75345c7fb9b42a60d1d79af5e19d, type: 3}
