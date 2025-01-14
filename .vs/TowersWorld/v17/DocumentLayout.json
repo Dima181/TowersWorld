@@ -3,64 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\infrastructure\\installers\\bootstrapinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\installers\\bootstrapinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\ui\\hud\\uigameplayhudpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\ui\\hud\\uigameplayhudpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|c:\\users\\dima\\documents\\github\\towersworld\\assets\\codebase\\gameplay\\buildings\\interations\\interactionspresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\buildings\\interations\\interactionspresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\core\\gameresources\\resourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\core\\gameresources\\resourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\buildings\\interations\\interactionsinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\buildings\\interations\\interactionsinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\inventory\\inventorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\inventory\\inventorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\buildings\\ui\\uibuildingupgradepopuppresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\buildings\\ui\\uibuildingupgradepopuppresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\core\\gameresources\\iresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\core\\gameresources\\iresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\ui\\hud\\uigameplayhudview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\ui\\hud\\uigameplayhudview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\buildings\\ui\\uibuildingupgradepopupview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\buildings\\ui\\uibuildingupgradepopupview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\ui\\uiinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\ui\\uiinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\requiresinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\requiresinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\requirefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\requirefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\infrastructure\\installers\\projectcontextinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\installers\\projectcontextinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCE663A1-FD95-F10D-EA1B-DC5855BE7166}|Zenject-IntegrationTests.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\plugins\\zenject\\optionalextras\\integrationtests\\scenetests\\testdestructionorder\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCE663A1-FD95-F10D-EA1B-DC5855BE7166}|Zenject-IntegrationTests.csproj|solutionrelative:assets\\plugins\\zenject\\optionalextras\\integrationtests\\scenetests\\testdestructionorder\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\buildings\\services\\localbuildingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\buildings\\services\\localbuildingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\model\\buildingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\model\\buildingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\model\\buildinglevelconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\model\\buildinglevelconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\model\\buildingscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\model\\buildingscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\buildings\\ebuildingupgraderesult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\buildings\\ebuildingupgraderesult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\buildings\\ui\\uibuildingupgradepopuppresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\buildings\\ui\\uibuildingupgradepopuppresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\buildings\\services\\ibuildingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,12 +43,20 @@
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\core\\eresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\infrastructure\\pipeline\\services\\ilocalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\pipeline\\services\\ilocalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\model\\buildingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\model\\buildingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E214B418-526F-1DD6-AA73-0B865148A4E0}|Zenject.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\plugins\\zenject\\source\\main\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E214B418-526F-1DD6-AA73-0B865148A4E0}|Zenject.csproj|solutionrelative:assets\\plugins\\zenject\\source\\main\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\model\\buildinglevelconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\model\\buildinglevelconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\model\\buildingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\model\\buildingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\buildings\\services\\localbuildingsdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\buildings\\services\\localbuildingsdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\buildings\\ui\\buildingsuiinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,6 +65,166 @@
     {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\ui\\popups\\buildinginteractionspopup\\interactionconfigurator\\showbuildingupdatewindowconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\ui\\popups\\buildinginteractionspopup\\interactionconfigurator\\showbuildingupdatewindowconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\ui\\uibuildingrequirepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\ui\\uibuildingrequirepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\currencies\\currencyextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\currencies\\currencyextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\acceleration\\baseprogresstaskview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\acceleration\\baseprogresstaskview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\acceleration\\baseprogresstaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\acceleration\\baseprogresstaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\extensions\\zenjectextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\extensions\\zenjectextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\extensions\\collectionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\extensions\\collectionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\buildingrequire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\buildingrequire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\ui\\uirequirepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\ui\\uirequirepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\ui\\uirequireview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\ui\\uirequireview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\ui\\uibuildingrequireview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\ui\\uibuildingrequireview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\model\\buildingbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\model\\buildingbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E214B418-526F-1DD6-AA73-0B865148A4E0}|Zenject.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\plugins\\zenject\\source\\internal\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E214B418-526F-1DD6-AA73-0B865148A4E0}|Zenject.csproj|solutionrelative:assets\\plugins\\zenject\\source\\internal\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\requiresinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\requiresinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\ui\\uirequirefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\ui\\uirequirefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\compositerequire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\compositerequire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\irequirevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\irequirevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\requirebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\requirebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\irequire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\irequire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\resourcerequire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\resourcerequire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\core\\gameresources\\resourcesprojectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\core\\gameresources\\resourcesprojectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|c:\\users\\dima\\documents\\github\\towersworld\\assets\\codebase\\core\\bootallsceneinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\core\\bootallsceneinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|c:\\users\\dima\\documents\\github\\towersworld\\assets\\codebase\\infrastructure\\installers\\projectcontextinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\installers\\projectcontextinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E214B418-526F-1DD6-AA73-0B865148A4E0}|Zenject.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\plugins\\zenject\\source\\main\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E214B418-526F-1DD6-AA73-0B865148A4E0}|Zenject.csproj|solutionrelative:assets\\plugins\\zenject\\source\\main\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\core\\gameresources\\iprotectedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\core\\gameresources\\iprotectedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\core\\gameresources\\configs\\resourcesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\core\\gameresources\\configs\\resourcesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\ui\\uiresourcerequirepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\ui\\uiresourcerequirepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\model\\buildingscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\model\\buildingscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\model\\ebuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\model\\ebuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\infrastructure\\pipeline\\services\\servicesinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\pipeline\\services\\servicesinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\infrastructure\\pipeline\\dataproviders\\dataprovidersinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\pipeline\\dataproviders\\dataprovidersinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\infrastructure\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\view\\buildingspawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\view\\buildingspawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\infrastructure\\pipeline\\services\\ilocalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\pipeline\\services\\ilocalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\infrastructure\\installers\\bootstrapinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\installers\\bootstrapinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\buildings\\interations\\interactionspresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\buildings\\interations\\interactionspresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\buildings\\interations\\interactionsinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\buildings\\interations\\interactionsinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\ui\\uiinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\ui\\uiinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\requirefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\requirefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE663A1-FD95-F10D-EA1B-DC5855BE7166}|Zenject-IntegrationTests.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\plugins\\zenject\\optionalextras\\integrationtests\\scenetests\\testdestructionorder\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE663A1-FD95-F10D-EA1B-DC5855BE7166}|Zenject-IntegrationTests.csproj|solutionrelative:assets\\plugins\\zenject\\optionalextras\\integrationtests\\scenetests\\testdestructionorder\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\buildings\\ebuildingupgraderesult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\buildings\\ebuildingupgraderesult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\ui\\uinavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,10 +237,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\ui\\popups\\buildinginteractionspopup\\interactionconfigurator\\showbuildinginfowindowconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\ui\\popups\\buildinginteractionspopup\\interactionconfigurator\\showbuildinginfowindowconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\ui\\uibuildingrequirepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\ui\\uibuildingrequirepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\ui\\popups\\buildinginteractionspopup\\interactionconfiguratorsinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -235,18 +371,6 @@
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\inventory\\inventoryitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\inventory\\inventorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\inventory\\inventorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\ui\\hud\\uigameplayhudpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\ui\\hud\\uigameplayhudpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\ui\\hud\\uigameplayhudview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\ui\\hud\\uigameplayhudview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\ui\\hud\\uiexplorationhudbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\ui\\hud\\uiexplorationhudbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -299,20 +423,12 @@
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\ui\\gamescreens\\screenhud\\iuihudscreenview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\extensions\\zenjectextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\extensions\\zenjectextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\infrastructure\\scenes\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\scenes\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\infrastructure\\scenes\\scenetransitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\scenes\\scenetransitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E214B418-526F-1DD6-AA73-0B865148A4E0}|Zenject.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\plugins\\zenject\\source\\internal\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E214B418-526F-1DD6-AA73-0B865148A4E0}|Zenject.csproj|solutionrelative:assets\\plugins\\zenject\\source\\internal\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\buildings\\ui\\uilevelhealthitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -335,24 +451,8 @@
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\scenes\\scenesflowinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\core\\gameresources\\resourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\core\\gameresources\\resourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\core\\gameresources\\iprotectedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\core\\gameresources\\iprotectedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\core\\gameresources\\resourcesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\core\\gameresources\\resourcesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\core\\gameresources\\iresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\core\\gameresources\\iresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\core\\gameresources\\configs\\resourcesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\core\\gameresources\\configs\\resourcesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\inventory\\items\\currencyitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -423,96 +523,20 @@
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\scenes\\transitions\\itransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\view\\buildingspawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\view\\buildingspawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\ui\\buildings\\cannontower\\infopanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\ui\\buildings\\cannontower\\infopanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\buildings\\services\\localbuildingsdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\buildings\\services\\localbuildingsdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\model\\buildingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\model\\buildingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\buildingrequire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\buildingrequire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\requirebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\requirebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\currencies\\currencyextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\currencies\\currencyextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\acceleration\\baseprogresstaskview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\acceleration\\baseprogresstaskview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\acceleration\\baseprogresstaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\acceleration\\baseprogresstaskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\extensions\\collectionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\extensions\\collectionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\core\\gameextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\core\\gameextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\resourcerequire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\resourcerequire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\irequirevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\irequirevisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\irequire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\irequire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\compositerequire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\compositerequire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\ui\\uiresourcerequireview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\ui\\uiresourcerequireview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\ui\\uiresourcerequirepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\ui\\uiresourcerequirepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\ui\\uirequireview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\ui\\uirequireview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\ui\\uirequirepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\ui\\uirequirepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\ui\\uirequirefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\ui\\uirequirefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\requires\\ui\\uibuildingrequireview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\requires\\ui\\uibuildingrequireview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\installers\\buildstateinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\installers\\buildstateinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\model\\ebuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\model\\ebuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\view\\staystatebuildingview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -539,10 +563,6 @@
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\model\\ibuildinginitializable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\model\\buildingbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\model\\buildingbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\model\\ebuildingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\gameplay\\model\\ebuildingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -559,16 +579,8 @@
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\pipeline\\dataproviders\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\infrastructure\\pipeline\\dataproviders\\dataprovidersinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\pipeline\\dataproviders\\dataprovidersinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\infrastructure\\view\\bootstrapview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\view\\bootstrapview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\infrastructure\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|solutionrelative:assets\\codebase\\infrastructure\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{338701FD-7722-FA46-32A9-2697FFAF60A2}|Assembly-CSharp.csproj|C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\assets\\codebase\\gameplay\\model\\buildingstatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -634,48 +646,650 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RequiresInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\RequiresInstaller.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\RequiresInstaller.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\RequiresInstaller.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Requires\\RequiresInstaller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "DocumentIndex": 4,
+              "Title": "UIGameplayHUDView.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIGameplayHUDView.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIGameplayHUDView.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIGameplayHUDView.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIGameplayHUDView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T16:51:55.273Z"
+              "WhenOpened": "2024-12-28T10:10:17.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UIInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\UIInstaller.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\UIInstaller.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\UIInstaller.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\UI\\UIInstaller.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCsAAAAxAAAA",
+              "DocumentIndex": 0,
+              "Title": "UIGameplayHUDPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIGameplayHUDPresenter.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIGameplayHUDPresenter.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIGameplayHUDPresenter.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIGameplayHUDPresenter.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:33:17.202Z"
+              "WhenOpened": "2024-12-28T16:06:09.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Inventory\\InventoryModel.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Inventory\\InventoryModel.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Inventory\\InventoryModel.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Inventory\\InventoryModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwDkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:37:17.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IResources.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\IResources.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Core\\GameResources\\IResources.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\IResources.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Core\\GameResources\\IResources.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:14:34.966Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InteractionsPresenter.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\InteractionsPresenter.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\InteractionsPresenter.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\InteractionsPresenter.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\InteractionsPresenter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Title": "ResourceService.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\ResourceService.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Core\\GameResources\\ResourceService.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\ResourceService.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Core\\GameResources\\ResourceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T07:20:02.62Z",
+              "WhenOpened": "2025-01-01T16:07:05.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIBuildingUpgradePopupView.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingUpgradePopupView.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingUpgradePopupView.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingUpgradePopupView.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingUpgradePopupView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:48:39.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocalBuildingsService.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Services\\LocalBuildingsService.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\Services\\LocalBuildingsService.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Services\\LocalBuildingsService.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Buildings\\Services\\LocalBuildingsService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAWwBsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:01:55.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "UIBuildingUpgradePopupPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingUpgradePopupPresenter.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingUpgradePopupPresenter.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingUpgradePopupPresenter.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingUpgradePopupPresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:48:57.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBuildingsService.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Services\\IBuildingsService.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\Services\\IBuildingsService.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Services\\IBuildingsService.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Buildings\\Services\\IBuildingsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:04:33.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EResource.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\EResource.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Core\\EResource.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\EResource.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Core\\EResource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:34:44.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BuildingModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingModel.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\BuildingModel.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingModel.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Model\\BuildingModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:34:05.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BuildingLevelConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingLevelConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\BuildingLevelConfig.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingLevelConfig.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Model\\BuildingLevelConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:34:08.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BuildingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\BuildingConfig.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingConfig.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Model\\BuildingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:33:16.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LocalBuildingsDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Services\\LocalBuildingsDataProvider.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\Services\\LocalBuildingsDataProvider.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Services\\LocalBuildingsDataProvider.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Buildings\\Services\\LocalBuildingsDataProvider.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAowJ8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:31:03.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BuildingsUIInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\UI\\BuildingsUIInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\UI\\BuildingsUIInstaller.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\UI\\BuildingsUIInstaller.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Buildings\\UI\\BuildingsUIInstaller.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:02:01.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShowBuildingUpdateWindowConfigurator.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\InteractionConfigurator\\ShowBuildingUpdateWindowConfigurator.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\InteractionConfigurator\\ShowBuildingUpdateWindowConfigurator.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\InteractionConfigurator\\ShowBuildingUpdateWindowConfigurator.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\InteractionConfigurator\\ShowBuildingUpdateWindowConfigurator.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswBsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T22:04:49.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UIBuildingRequirePresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIBuildingRequirePresenter.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\UI\\UIBuildingRequirePresenter.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIBuildingRequirePresenter.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Requires\\UI\\UIBuildingRequirePresenter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:45:40.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseProgressTaskView.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Acceleration\\BaseProgressTaskView.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Acceleration\\BaseProgressTaskView.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Acceleration\\BaseProgressTaskView.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Acceleration\\BaseProgressTaskView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:07:37.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CurrencyExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Currencies\\CurrencyExtension.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Currencies\\CurrencyExtension.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Currencies\\CurrencyExtension.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Currencies\\CurrencyExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:58:40.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseProgressTaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Acceleration\\BaseProgressTaskModel.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Acceleration\\BaseProgressTaskModel.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Acceleration\\BaseProgressTaskModel.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Acceleration\\BaseProgressTaskModel.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:00:51.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ZenjectExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Extensions\\ZenjectExtensions.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Extensions\\ZenjectExtensions.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Extensions\\ZenjectExtensions.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Extensions\\ZenjectExtensions.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:29:39.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CollectionsExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Extensions\\CollectionsExtensions.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Extensions\\CollectionsExtensions.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Extensions\\CollectionsExtensions.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Extensions\\CollectionsExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:13:38.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BuildingRequire.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\BuildingRequire.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\BuildingRequire.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\BuildingRequire.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Requires\\BuildingRequire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:51:32.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UIRequirePresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIRequirePresenter.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\UI\\UIRequirePresenter.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIRequirePresenter.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Requires\\UI\\UIRequirePresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:35:44.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UIRequireView.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIRequireView.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\UI\\UIRequireView.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIRequireView.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Requires\\UI\\UIRequireView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:12:00.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UIBuildingRequireView.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIBuildingRequireView.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\UI\\UIBuildingRequireView.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIBuildingRequireView.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Requires\\UI\\UIBuildingRequireView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:02:52.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BuildingBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\BuildingBuilder.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingBuilder.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Model\\BuildingBuilder.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvy4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:32:47.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Assert.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\Zenject\\Source\\Internal\\Assert.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\Zenject\\Source\\Internal\\Assert.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\Zenject\\Source\\Internal\\Assert.cs",
+              "RelativeToolTip": "Assets\\Plugins\\Zenject\\Source\\Internal\\Assert.cs",
+              "ViewState": "AQIAAFIBAAAAAAAAAAAswGcBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:22:09.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RequiresInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\RequiresInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\RequiresInstaller.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\RequiresInstaller.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Requires\\RequiresInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:51:55.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UIRequireFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIRequireFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\UI\\UIRequireFactory.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIRequireFactory.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Requires\\UI\\UIRequireFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:22:33.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CompositeRequire.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\CompositeRequire.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\CompositeRequire.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\CompositeRequire.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Requires\\CompositeRequire.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwBgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:12:09.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IRequireVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\IRequireVisitor.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\IRequireVisitor.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\IRequireVisitor.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Requires\\IRequireVisitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:31:53.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RequireBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\RequireBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\RequireBuilder.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\RequireBuilder.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Requires\\RequireBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:32:04.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRequire.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\IRequire.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\IRequire.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\IRequire.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Requires\\IRequire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:31:45.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ResourceRequire.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\ResourceRequire.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\ResourceRequire.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\ResourceRequire.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Requires\\ResourceRequire.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAjwBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:55:30.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ResourcesProjectInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\ResourcesProjectInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Core\\GameResources\\ResourcesProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\ResourcesProjectInstaller.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Core\\GameResources\\ResourcesProjectInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:00:28.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BootAllSceneInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\BootAllSceneInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Core\\BootAllSceneInstaller.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\BootAllSceneInstaller.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Core\\BootAllSceneInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:04:58.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProjectContextInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Installers\\ProjectContextInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Installers\\ProjectContextInstaller.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Installers\\ProjectContextInstaller.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Installers\\ProjectContextInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:50:34.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DiContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\Zenject\\Source\\Main\\DiContainer.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\Zenject\\Source\\Main\\DiContainer.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\Zenject\\Source\\Main\\DiContainer.cs",
+              "RelativeToolTip": "Assets\\Plugins\\Zenject\\Source\\Main\\DiContainer.cs",
+              "ViewState": "AQIAAPQDAAAAAAAAAADwvxMEAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:54:39.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UIResourceRequirePresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIResourceRequirePresenter.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\UI\\UIResourceRequirePresenter.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIResourceRequirePresenter.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Requires\\UI\\UIResourceRequirePresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:26:31.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ResourcesConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\Configs\\ResourcesConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Core\\GameResources\\Configs\\ResourcesConfig.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\Configs\\ResourcesConfig.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Core\\GameResources\\Configs\\ResourcesConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T20:28:32.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IProtectedResource.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\IProtectedResource.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Core\\GameResources\\IProtectedResource.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\IProtectedResource.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Core\\GameResources\\IProtectedResource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:05:22.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BuildingsCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingsCollection.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\BuildingsCollection.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingsCollection.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Model\\BuildingsCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:35:42.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EBuilding.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\EBuilding.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\EBuilding.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\EBuilding.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Model\\EBuilding.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:35:44.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ServicesInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Pipeline\\Services\\ServicesInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Pipeline\\Services\\ServicesInstaller.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Pipeline\\Services\\ServicesInstaller.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Pipeline\\Services\\ServicesInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:27:24.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DataProvidersInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Pipeline\\DataProviders\\DataProvidersInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Pipeline\\DataProviders\\DataProvidersInstaller.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Pipeline\\DataProviders\\DataProvidersInstaller.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Pipeline\\DataProviders\\DataProvidersInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:17:01.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Bootstrap.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Bootstrap.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Bootstrap.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Bootstrap.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Bootstrap.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAewFcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:03:13.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BuildingSpawnPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\View\\BuildingSpawnPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\View\\BuildingSpawnPoint.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\View\\BuildingSpawnPoint.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\View\\BuildingSpawnPoint.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:36:23.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ILocalService.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Pipeline\\Services\\ILocalService.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Pipeline\\Services\\ILocalService.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Pipeline\\Services\\ILocalService.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Pipeline\\Services\\ILocalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:56:58.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BootstrapInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Installers\\BootstrapInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Installers\\BootstrapInstaller.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Installers\\BootstrapInstaller.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Installers\\BootstrapInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:58:28.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
               "Title": "RequireFactory.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\RequireFactory.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\RequireFactory.cs",
@@ -687,32 +1301,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BootstrapInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Installers\\BootstrapInstaller.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Installers\\BootstrapInstaller.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Installers\\BootstrapInstaller.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Installers\\BootstrapInstaller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "DocumentIndex": 50,
+              "Title": "InteractionsPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\InteractionsPresenter.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\InteractionsPresenter.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\InteractionsPresenter.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\InteractionsPresenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T11:58:28.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T07:20:02.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UIBuildingUpgradePopupPresenter.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingUpgradePopupPresenter.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingUpgradePopupPresenter.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingUpgradePopupPresenter.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingUpgradePopupPresenter.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAwDAAAAAAAAAA",
+              "DocumentIndex": 52,
+              "Title": "UIInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\UIInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\UIInstaller.cs",
+              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\UIInstaller.cs",
+              "RelativeToolTip": "Assets\\CodeBase\\UI\\UIInstaller.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCsAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T15:48:57.674Z"
+              "WhenOpened": "2024-12-13T13:33:17.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 51,
               "Title": "InteractionsInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\InteractionsInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\InteractionsInstaller.cs",
@@ -724,31 +1337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UIBuildingUpgradePopupView.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingUpgradePopupView.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingUpgradePopupView.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingUpgradePopupView.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingUpgradePopupView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T15:48:39.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProjectContextInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Installers\\ProjectContextInstaller.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Installers\\ProjectContextInstaller.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Installers\\ProjectContextInstaller.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Installers\\ProjectContextInstaller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T14:50:34.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 54,
               "Title": "ProjectInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\Zenject\\OptionalExtras\\IntegrationTests\\SceneTests\\TestDestructionOrder\\ProjectInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\Plugins\\Zenject\\OptionalExtras\\IntegrationTests\\SceneTests\\TestDestructionOrder\\ProjectInstaller.cs",
@@ -760,19 +1349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LocalBuildingsService.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Services\\LocalBuildingsService.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\Services\\LocalBuildingsService.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Services\\LocalBuildingsService.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Buildings\\Services\\LocalBuildingsService.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAADwvxgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T19:01:55.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 154,
+              "DocumentIndex": 157,
               "Title": "TimeInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Time\\TimeInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Time\\TimeInstaller.cs",
@@ -784,19 +1361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BuildingModel.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingModel.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\BuildingModel.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingModel.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Model\\BuildingModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxcAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T12:34:05.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 155,
+              "DocumentIndex": 158,
               "Title": "TimeHelper.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Time\\TimeHelper.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Time\\TimeHelper.cs",
@@ -808,31 +1373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BuildingsCollection.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingsCollection.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\BuildingsCollection.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingsCollection.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Model\\BuildingsCollection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T12:35:42.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BuildingLevelConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingLevelConfig.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\BuildingLevelConfig.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingLevelConfig.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Model\\BuildingLevelConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T12:34:08.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 55,
               "Title": "EBuildingUpgradeResult.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\EBuildingUpgradeResult.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\EBuildingUpgradeResult.cs",
@@ -844,79 +1385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IBuildingsService.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Services\\IBuildingsService.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\Services\\IBuildingsService.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Services\\IBuildingsService.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Buildings\\Services\\IBuildingsService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T16:04:33.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EResource.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\EResource.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Core\\EResource.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\EResource.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Core\\EResource.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T21:34:44.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ILocalService.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Pipeline\\Services\\ILocalService.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Pipeline\\Services\\ILocalService.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Pipeline\\Services\\ILocalService.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Pipeline\\Services\\ILocalService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T18:56:58.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DiContainer.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\Zenject\\Source\\Main\\DiContainer.cs",
-              "RelativeDocumentMoniker": "Assets\\Plugins\\Zenject\\Source\\Main\\DiContainer.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\Zenject\\Source\\Main\\DiContainer.cs",
-              "RelativeToolTip": "Assets\\Plugins\\Zenject\\Source\\Main\\DiContainer.cs",
-              "ViewState": "AQIAAP0DAAAAAAAAAADwvxMEAAB1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T21:54:39.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BuildingsUIInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\UI\\BuildingsUIInstaller.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\UI\\BuildingsUIInstaller.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\UI\\BuildingsUIInstaller.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Buildings\\UI\\BuildingsUIInstaller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T20:02:01.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ShowBuildingUpdateWindowConfigurator.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\InteractionConfigurator\\ShowBuildingUpdateWindowConfigurator.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\InteractionConfigurator\\ShowBuildingUpdateWindowConfigurator.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\InteractionConfigurator\\ShowBuildingUpdateWindowConfigurator.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\InteractionConfigurator\\ShowBuildingUpdateWindowConfigurator.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAMwBsAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T22:04:49.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 56,
               "Title": "UINavigator.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\UINavigator.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\UINavigator.cs",
@@ -928,7 +1397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 57,
               "Title": "UIBuildingInfoPopupPresenter.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingInfoPopupPresenter.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingInfoPopupPresenter.cs",
@@ -940,7 +1409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 58,
               "Title": "ShowBuildingInfoWindowConfigurator.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\InteractionConfigurator\\ShowBuildingInfoWindowConfigurator.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\InteractionConfigurator\\ShowBuildingInfoWindowConfigurator.cs",
@@ -952,19 +1421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UIBuildingRequirePresenter.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIBuildingRequirePresenter.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\UI\\UIBuildingRequirePresenter.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIBuildingRequirePresenter.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Requires\\UI\\UIBuildingRequirePresenter.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAjwBkAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T15:45:40.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 59,
               "Title": "InteractionConfiguratorsInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\InteractionConfiguratorsInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\InteractionConfiguratorsInstaller.cs",
@@ -976,7 +1433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 60,
               "Title": "GameplayUIInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\GameplayUIInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\GameplayUIInstaller.cs",
@@ -988,7 +1445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 61,
               "Title": "UIGameplayPopupsInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Popups\\UIGameplayPopupsInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\Popups\\UIGameplayPopupsInstaller.cs",
@@ -1000,7 +1457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 62,
               "Title": "AbstractInteractionConfigurator.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\InteractionConfigurator\\AbstractInteractionConfigurator.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\InteractionConfigurator\\AbstractInteractionConfigurator.cs",
@@ -1012,7 +1469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 63,
               "Title": "PopupView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\PopupView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\PopupView.cs",
@@ -1024,7 +1481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 64,
               "Title": "IPopupContext.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\IPopupContext.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\IPopupContext.cs",
@@ -1036,7 +1493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 65,
               "Title": "IPopupView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\IPopupView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\IPopupView.cs",
@@ -1048,7 +1505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 66,
               "Title": "IInteractionConfigurator.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\IInteractionConfigurator.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\IInteractionConfigurator.cs",
@@ -1060,7 +1517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 67,
               "Title": "EButtonId.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\EButtonId.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\EButtonId.cs",
@@ -1072,7 +1529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 68,
               "Title": "PopupPresenter.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\PopupPresenter.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\PopupPresenter.cs",
@@ -1084,7 +1541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 69,
               "Title": "IInteractionData.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\IInteractionData.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\IInteractionData.cs",
@@ -1096,7 +1553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 70,
               "Title": "ShowBuildingUpgradeWindowData.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\Implementations\\ShowBuildingUpgradeWindowData.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\Implementations\\ShowBuildingUpgradeWindowData.cs",
@@ -1108,7 +1565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 71,
               "Title": "ShowBuildingInfoWindowData.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\Implementations\\ShowBuildingInfoWindowData.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\Implementations\\ShowBuildingInfoWindowData.cs",
@@ -1120,7 +1577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 72,
               "Title": "InteractionArguments.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\InteractionArguments.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\InteractionArguments.cs",
@@ -1132,7 +1589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 73,
               "Title": "IInteractionDataProvider.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\IInteractionDataProvider.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\IInteractionDataProvider.cs",
@@ -1144,7 +1601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 74,
               "Title": "InteractionDataProvider.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\InteractionDataProvider.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\Interations\\InteractionDataProvider.cs",
@@ -1156,7 +1613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 75,
               "Title": "CannonTowerInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\CannonTower\\Installers\\CannonTowerInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\CannonTower\\Installers\\CannonTowerInstaller.cs",
@@ -1168,7 +1625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 76,
               "Title": "PopupContext.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\PopupContext.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\Popups\\BuildingInteractionsPopup\\PopupContext.cs",
@@ -1180,7 +1637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 77,
               "Title": "SubclassSelectorDrawer.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\MackySoft\\MackySoft.SerializeReferenceExtensions\\Editor\\SubclassSelectorDrawer.cs",
               "RelativeDocumentMoniker": "Assets\\MackySoft\\MackySoft.SerializeReferenceExtensions\\Editor\\SubclassSelectorDrawer.cs",
@@ -1192,7 +1649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 78,
               "Title": "BuildingView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\View\\BuildingView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\View\\BuildingView.cs",
@@ -1204,7 +1661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 79,
               "Title": "UICannonTowerScreenPresenter.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\CannonTower\\UI\\UICannonTowerScreenPresenter.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\CannonTower\\UI\\UICannonTowerScreenPresenter.cs",
@@ -1216,7 +1673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 80,
               "Title": "StayStateInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Installers\\StayStateInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Installers\\StayStateInstaller.cs",
@@ -1228,7 +1685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 81,
               "Title": "SiteStateInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Installers\\SiteStateInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Installers\\SiteStateInstaller.cs",
@@ -1240,7 +1697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 82,
               "Title": "UICannonTowerScreenInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\CannonTower\\Installers\\UICannonTowerScreenInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\CannonTower\\Installers\\UICannonTowerScreenInstaller.cs",
@@ -1252,7 +1709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 83,
               "Title": "UICannonTowerScreenView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\CannonTower\\UI\\UICannonTowerScreenView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\CannonTower\\UI\\UICannonTowerScreenView.cs",
@@ -1264,7 +1721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 84,
               "Title": "BuildingInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Installers\\BuildingInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Installers\\BuildingInstaller.cs",
@@ -1276,7 +1733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 85,
               "Title": "BuildingViewInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\View\\BuildingViewInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\View\\BuildingViewInstaller.cs",
@@ -1288,7 +1745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 86,
               "Title": "UIConstants.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\Core\\UIConstants.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\Core\\UIConstants.cs",
@@ -1300,7 +1757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 87,
               "Title": "UIGameplayScreensInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Screens\\UIGameplayScreensInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\Screens\\UIGameplayScreensInstaller.cs",
@@ -1312,7 +1769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 88,
               "Title": "UIBuildingInfoPopupView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingInfoPopupView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UIBuildingInfoPopupView.cs",
@@ -1324,7 +1781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 89,
               "Title": "UIScreenPresenterBase.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\Core\\UIScreenPresenterBase.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\Core\\UIScreenPresenterBase.cs",
@@ -1336,7 +1793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 91,
               "Title": "InventoryItems.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Inventory\\InventoryItems.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Inventory\\InventoryItems.cs",
@@ -1348,7 +1805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 90,
               "Title": "UIScreenPresenter.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\Core\\UIScreenPresenter.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\Core\\UIScreenPresenter.cs",
@@ -1360,19 +1817,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "InventoryModel.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Inventory\\InventoryModel.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Inventory\\InventoryModel.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Inventory\\InventoryModel.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Inventory\\InventoryModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T15:37:17.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 95,
               "Title": "UIScreenSubPresenter.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\Core\\UIScreenSubPresenter.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\Core\\UIScreenSubPresenter.cs",
@@ -1384,31 +1829,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "UIGameplayHUDPresenter.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIGameplayHUDPresenter.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIGameplayHUDPresenter.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIGameplayHUDPresenter.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIGameplayHUDPresenter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T16:06:09.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "UIGameplayHUDView.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIGameplayHUDView.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIGameplayHUDView.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIGameplayHUDView.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIGameplayHUDView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T10:10:17.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 153,
+              "DocumentIndex": 156,
               "Title": "EditorTextureTools.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\Editor\\SpriteSlicer\\EditorTextureTools.cs",
               "RelativeDocumentMoniker": "Assets\\Plugins\\Editor\\SpriteSlicer\\EditorTextureTools.cs",
@@ -1420,7 +1841,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 152,
+              "DocumentIndex": 155,
               "Title": "SlicerWindow.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\Editor\\SpriteSlicer\\SlicerWindow.cs",
               "RelativeDocumentMoniker": "Assets\\Plugins\\Editor\\SpriteSlicer\\SlicerWindow.cs",
@@ -1432,7 +1853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 92,
               "Title": "UIExplorationHUDButton.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIExplorationHUDButton.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\HUD\\UIExplorationHUDButton.cs",
@@ -1444,7 +1865,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 93,
               "Title": "UISubPresenterBinding.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\Core\\UISubPresenterBinding.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\Core\\UISubPresenterBinding.cs",
@@ -1456,7 +1877,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 94,
               "Title": "UIScreenView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\Core\\UIScreenView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\Core\\UIScreenView.cs",
@@ -1468,7 +1889,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 96,
               "Title": "UIRoot.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\Core\\UIRoot.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\Core\\UIRoot.cs",
@@ -1480,7 +1901,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 97,
               "Title": "UIPresenterBinding.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\Core\\UIPresenterBinding.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\Core\\UIPresenterBinding.cs",
@@ -1492,7 +1913,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 98,
               "Title": "UIBindingExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\Core\\UIBindingExtensions.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\Core\\UIBindingExtensions.cs",
@@ -1504,7 +1925,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 99,
               "Title": "EScreenType.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\Core\\EScreenType.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\Core\\EScreenType.cs",
@@ -1516,7 +1937,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 100,
               "Title": "MarkedButton.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UIKit\\MarkedButton.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\UIKit\\MarkedButton.cs",
@@ -1528,7 +1949,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 101,
               "Title": "UIUtilities.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\UIUtilities.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\UIUtilities.cs",
@@ -1540,7 +1961,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 102,
               "Title": "LookToCamera.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\LookToCamera.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\LookToCamera.cs",
@@ -1552,7 +1973,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 103,
               "Title": "UIPopupAnimation.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\UI Animation scripts\\UIPopupAnimation.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\UI Animation scripts\\UIPopupAnimation.cs",
@@ -1564,7 +1985,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 104,
               "Title": "IUIHudScreenView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\UI\\GameScreens\\ScreenHud\\IUIHudScreenView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\UI\\GameScreens\\ScreenHud\\IUIHudScreenView.cs",
@@ -1576,19 +1997,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "ZenjectExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Extensions\\ZenjectExtensions.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Extensions\\ZenjectExtensions.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Extensions\\ZenjectExtensions.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Extensions\\ZenjectExtensions.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T12:29:39.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 106,
               "Title": "SceneTransitions.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Scenes\\SceneTransitions.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Scenes\\SceneTransitions.cs",
@@ -1600,7 +2009,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 105,
               "Title": "SceneLoader.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Scenes\\SceneLoader.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Scenes\\SceneLoader.cs",
@@ -1612,19 +2021,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "Assert.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\Zenject\\Source\\Internal\\Assert.cs",
-              "RelativeDocumentMoniker": "Assets\\Plugins\\Zenject\\Source\\Internal\\Assert.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\Zenject\\Source\\Internal\\Assert.cs",
-              "RelativeToolTip": "Assets\\Plugins\\Zenject\\Source\\Internal\\Assert.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T14:22:09.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 107,
               "Title": "UILevelHealthItem.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UILevelHealthItem.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\UI\\UILevelHealthItem.cs",
@@ -1636,7 +2033,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 108,
               "Title": "CameraControlInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Cam\\CameraControlInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Cam\\CameraControlInstaller.cs",
@@ -1648,7 +2045,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 109,
               "Title": "PrefabInstantiator.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\Zenject\\Source\\Providers\\PrefabCreators\\PrefabInstantiator.cs",
               "RelativeDocumentMoniker": "Assets\\Plugins\\Zenject\\Source\\Providers\\PrefabCreators\\PrefabInstantiator.cs",
@@ -1660,7 +2057,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 110,
               "Title": "PrefabProviderResource.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\Zenject\\Source\\Providers\\PrefabProviders\\PrefabProviderResource.cs",
               "RelativeDocumentMoniker": "Assets\\Plugins\\Zenject\\Source\\Providers\\PrefabProviders\\PrefabProviderResource.cs",
@@ -1672,7 +2069,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 111,
               "Title": "ScenesFlowInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Scenes\\ScenesFlowInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Scenes\\ScenesFlowInstaller.cs",
@@ -1684,43 +2081,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
-              "Title": "ResourceService.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\ResourceService.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Core\\GameResources\\ResourceService.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\ResourceService.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Core\\GameResources\\ResourceService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwDMAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T16:07:05.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 84,
-              "Title": "IProtectedResource.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\IProtectedResource.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Core\\GameResources\\IProtectedResource.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\IProtectedResource.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Core\\GameResources\\IProtectedResource.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T18:05:22.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 87,
-              "Title": "ResourcesConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\Configs\\ResourcesConfig.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Core\\GameResources\\Configs\\ResourcesConfig.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\Configs\\ResourcesConfig.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Core\\GameResources\\Configs\\ResourcesConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T20:28:32.366Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 114,
               "Title": "CurrencyItemConfig.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Inventory\\Items\\CurrencyItemConfig.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Inventory\\Items\\CurrencyItemConfig.cs",
@@ -1732,7 +2093,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 113,
               "Title": "CurrencyItemModel.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Inventory\\Items\\CurrencyItemModel.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Inventory\\Items\\CurrencyItemModel.cs",
@@ -1744,7 +2105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 112,
               "Title": "ResourcesModel.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\ResourcesModel.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Core\\GameResources\\ResourcesModel.cs",
@@ -1756,19 +2117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
-              "Title": "IResources.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\IResources.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Core\\GameResources\\IResources.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameResources\\IResources.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Core\\GameResources\\IResources.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T21:14:34.966Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 117,
               "Title": "ResourceItemConfig.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Inventory\\Items\\ResourceItems\\ResourceItemConfig.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Inventory\\Items\\ResourceItems\\ResourceItemConfig.cs",
@@ -1780,7 +2129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 115,
               "Title": "ItemsCollectionBase.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Inventory\\Items\\ItemsCollectionBase.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Inventory\\Items\\ItemsCollectionBase.cs",
@@ -1792,7 +2141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 116,
               "Title": "ResourceItemsCollection.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Inventory\\Items\\ResourceItems\\ResourceItemsCollection.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Inventory\\Items\\ResourceItems\\ResourceItemsCollection.cs",
@@ -1804,7 +2153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 118,
               "Title": "ResourceItemModel.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Inventory\\Items\\ResourceItems\\ResourceItemModel.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Inventory\\Items\\ResourceItems\\ResourceItemModel.cs",
@@ -1816,7 +2165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 120,
               "Title": "ItemModelBase.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Inventory\\Items\\Core\\ItemModelBase.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Inventory\\Items\\Core\\ItemModelBase.cs",
@@ -1828,7 +2177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 119,
               "Title": "ItemConfigBase.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Inventory\\Items\\Core\\ItemConfigBase.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Inventory\\Items\\Core\\ItemConfigBase.cs",
@@ -1840,7 +2189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 121,
               "Title": "StackableItemModel.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Inventory\\Items\\Core\\StackableItemModel.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Inventory\\Items\\Core\\StackableItemModel.cs",
@@ -1852,7 +2201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 122,
               "Title": "StackableItemConfig.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Inventory\\Items\\Core\\StackableItemConfig.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Inventory\\Items\\Core\\StackableItemConfig.cs",
@@ -1864,7 +2213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 123,
               "Title": "EInventoryTab.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Inventory\\EInventoryTab.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Inventory\\EInventoryTab.cs",
@@ -1876,7 +2225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 124,
               "Title": "RefCountDisposable.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\UniRx\\Scripts\\Disposables\\RefCountDisposable.cs",
               "RelativeDocumentMoniker": "Assets\\Plugins\\UniRx\\Scripts\\Disposables\\RefCountDisposable.cs",
@@ -1888,7 +2237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 125,
               "Title": "CloudsTransitionView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Scenes\\Transitions\\CloudsTransitionView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Scenes\\Transitions\\CloudsTransitionView.cs",
@@ -1900,7 +2249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 126,
               "Title": "OutBlackScreenTransitionView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Scenes\\Transitions\\OutBlackScreenTransitionView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Scenes\\Transitions\\OutBlackScreenTransitionView.cs",
@@ -1912,7 +2261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 127,
               "Title": "ETransition.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Scenes\\ETransition.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Scenes\\ETransition.cs",
@@ -1924,7 +2273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 129,
               "Title": "ITransition.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Scenes\\Transitions\\ITransition.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Scenes\\Transitions\\ITransition.cs",
@@ -1936,7 +2285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 128,
               "Title": "EScene.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Scenes\\EScene.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Scenes\\EScene.cs",
@@ -1948,19 +2297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
-              "Title": "BuildingSpawnPoint.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\View\\BuildingSpawnPoint.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\View\\BuildingSpawnPoint.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\View\\BuildingSpawnPoint.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\View\\BuildingSpawnPoint.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAwDMAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T12:36:23.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 130,
               "Title": "InfoPanel.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\UI\\Buildings\\CannonTower\\InfoPanel.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\UI\\Buildings\\CannonTower\\InfoPanel.cs",
@@ -1972,7 +2309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 151,
+              "DocumentIndex": 154,
               "Title": "CannonTowerInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\CannonTower\\CannonTowerInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\CannonTower\\CannonTowerInstaller.cs",
@@ -1984,103 +2321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
-              "Title": "LocalBuildingsDataProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Services\\LocalBuildingsDataProvider.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Buildings\\Services\\LocalBuildingsDataProvider.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Buildings\\Services\\LocalBuildingsDataProvider.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Buildings\\Services\\LocalBuildingsDataProvider.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAApwGYAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T12:31:03.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 108,
-              "Title": "BuildingConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingConfig.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\BuildingConfig.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingConfig.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Model\\BuildingConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T12:33:16.983Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 109,
-              "Title": "BuildingRequire.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\BuildingRequire.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\BuildingRequire.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\BuildingRequire.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Requires\\BuildingRequire.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T10:51:32.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 110,
-              "Title": "RequireBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\RequireBuilder.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\RequireBuilder.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\RequireBuilder.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Requires\\RequireBuilder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T21:32:04.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 111,
-              "Title": "CurrencyExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Currencies\\CurrencyExtension.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Currencies\\CurrencyExtension.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Currencies\\CurrencyExtension.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Currencies\\CurrencyExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T19:58:40.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 112,
-              "Title": "BaseProgressTaskView.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Acceleration\\BaseProgressTaskView.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Acceleration\\BaseProgressTaskView.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Acceleration\\BaseProgressTaskView.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Acceleration\\BaseProgressTaskView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T13:07:37.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 113,
-              "Title": "BaseProgressTaskModel.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Acceleration\\BaseProgressTaskModel.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Acceleration\\BaseProgressTaskModel.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Acceleration\\BaseProgressTaskModel.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Acceleration\\BaseProgressTaskModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T17:00:51.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 114,
-              "Title": "CollectionsExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Extensions\\CollectionsExtensions.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Extensions\\CollectionsExtensions.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Extensions\\CollectionsExtensions.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Extensions\\CollectionsExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T14:13:38.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 131,
               "Title": "GameExtentions.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Core\\GameExtentions.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Core\\GameExtentions.cs",
@@ -2092,55 +2333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
-              "Title": "ResourceRequire.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\ResourceRequire.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\ResourceRequire.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\ResourceRequire.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Requires\\ResourceRequire.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T10:55:30.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 117,
-              "Title": "IRequireVisitor.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\IRequireVisitor.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\IRequireVisitor.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\IRequireVisitor.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Requires\\IRequireVisitor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T21:31:53.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 118,
-              "Title": "IRequire.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\IRequire.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\IRequire.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\IRequire.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Requires\\IRequire.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T21:31:45.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 119,
-              "Title": "CompositeRequire.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\CompositeRequire.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\CompositeRequire.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\CompositeRequire.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Requires\\CompositeRequire.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T21:12:09.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 132,
               "Title": "UIResourceRequireView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIResourceRequireView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\UI\\UIResourceRequireView.cs",
@@ -2152,67 +2345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 121,
-              "Title": "UIResourceRequirePresenter.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIResourceRequirePresenter.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\UI\\UIResourceRequirePresenter.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIResourceRequirePresenter.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Requires\\UI\\UIResourceRequirePresenter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T20:26:31.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 122,
-              "Title": "UIRequireView.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIRequireView.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\UI\\UIRequireView.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIRequireView.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Requires\\UI\\UIRequireView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T21:12:00.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 123,
-              "Title": "UIRequirePresenter.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIRequirePresenter.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\UI\\UIRequirePresenter.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIRequirePresenter.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Requires\\UI\\UIRequirePresenter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T15:35:44.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 124,
-              "Title": "UIRequireFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIRequireFactory.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\UI\\UIRequireFactory.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIRequireFactory.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Requires\\UI\\UIRequireFactory.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwDwAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T15:22:33.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 125,
-              "Title": "UIBuildingRequireView.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIBuildingRequireView.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\UI\\UIBuildingRequireView.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UI\\UIBuildingRequireView.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Requires\\UI\\UIBuildingRequireView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T20:02:52.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 126,
+              "DocumentIndex": 133,
               "Title": "BuildStateInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Installers\\BuildStateInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Installers\\BuildStateInstaller.cs",
@@ -2224,19 +2357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 127,
-              "Title": "EBuilding.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\EBuilding.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\EBuilding.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\EBuilding.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Model\\EBuilding.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T12:35:44.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 148,
+              "DocumentIndex": 151,
               "Title": "UIResourceRequireView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UIResourceRequireView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\UIResourceRequireView.cs",
@@ -2248,7 +2369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 149,
+              "DocumentIndex": 152,
               "Title": "UIRequireView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UIRequireView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\UIRequireView.cs",
@@ -2260,7 +2381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 150,
+              "DocumentIndex": 153,
               "Title": "UIBuildingRequireView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Requires\\UIBuildingRequireView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Requires\\UIBuildingRequireView.cs",
@@ -2272,7 +2393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 128,
+              "DocumentIndex": 134,
               "Title": "StayStateBuildingView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\View\\StayStateBuildingView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\View\\StayStateBuildingView.cs",
@@ -2284,7 +2405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 129,
+              "DocumentIndex": 135,
               "Title": "SiteStateBuildingView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\View\\SiteStateBuildingView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\View\\SiteStateBuildingView.cs",
@@ -2296,7 +2417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 130,
+              "DocumentIndex": 136,
               "Title": "BuildStateBuildingView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\View\\BuildStateBuildingView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\View\\BuildStateBuildingView.cs",
@@ -2308,7 +2429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 131,
+              "DocumentIndex": 137,
               "Title": "IBuildingStateHandler.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\IBuildingStateHandler.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\IBuildingStateHandler.cs",
@@ -2320,7 +2441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 132,
+              "DocumentIndex": 138,
               "Title": "IBuildingDisposable.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\IBuildingDisposable.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\IBuildingDisposable.cs",
@@ -2332,7 +2453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 133,
+              "DocumentIndex": 139,
               "Title": "IBuildingInitializable.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\IBuildingInitializable.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\IBuildingInitializable.cs",
@@ -2344,19 +2465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 134,
-              "Title": "BuildingBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingBuilder.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\BuildingBuilder.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingBuilder.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Gameplay\\Model\\BuildingBuilder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T12:32:47.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 135,
+              "DocumentIndex": 140,
               "Title": "EBuildingState.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\EBuildingState.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\EBuildingState.cs",
@@ -2368,7 +2477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 136,
+              "DocumentIndex": 141,
               "Title": "LocalDataProvider.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Pipeline\\DataProviders\\LocalDataProvider.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Pipeline\\DataProviders\\LocalDataProvider.cs",
@@ -2380,7 +2489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 137,
+              "DocumentIndex": 142,
               "Title": "ILocalDataProvider.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Pipeline\\DataProviders\\ILocalDataProvider.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Pipeline\\DataProviders\\ILocalDataProvider.cs",
@@ -2392,7 +2501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 138,
+              "DocumentIndex": 143,
               "Title": "IDataProvider.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Pipeline\\DataProviders\\IDataProvider.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Pipeline\\DataProviders\\IDataProvider.cs",
@@ -2404,19 +2513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 139,
-              "Title": "DataProvidersInstaller.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Pipeline\\DataProviders\\DataProvidersInstaller.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Pipeline\\DataProviders\\DataProvidersInstaller.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Pipeline\\DataProviders\\DataProvidersInstaller.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Pipeline\\DataProviders\\DataProvidersInstaller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T12:17:01.964Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 140,
+              "DocumentIndex": 144,
               "Title": "BootstrapView.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\View\\BootstrapView.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\View\\BootstrapView.cs",
@@ -2428,19 +2525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 141,
-              "Title": "Bootstrap.cs",
-              "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Bootstrap.cs",
-              "RelativeDocumentMoniker": "Assets\\CodeBase\\Infrastructure\\Bootstrap.cs",
-              "ToolTip": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Infrastructure\\Bootstrap.cs",
-              "RelativeToolTip": "Assets\\CodeBase\\Infrastructure\\Bootstrap.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwEMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T12:03:13.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 142,
+              "DocumentIndex": 145,
               "Title": "BuildingStateHandler.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\CodeBase\\Gameplay\\Model\\BuildingStateHandler.cs",
               "RelativeDocumentMoniker": "Assets\\CodeBase\\Gameplay\\Model\\BuildingStateHandler.cs",
@@ -2452,7 +2537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 143,
+              "DocumentIndex": 146,
               "Title": "Observer.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\UniRx\\Scripts\\Observer.cs",
               "RelativeDocumentMoniker": "Assets\\Plugins\\UniRx\\Scripts\\Observer.cs",
@@ -2464,7 +2549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 144,
+              "DocumentIndex": 147,
               "Title": "UniTaskScheduler.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\UniTask\\Runtime\\UniTaskScheduler.cs",
               "RelativeDocumentMoniker": "Assets\\Plugins\\UniTask\\Runtime\\UniTaskScheduler.cs",
@@ -2476,7 +2561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 145,
+              "DocumentIndex": 148,
               "Title": "MonoInstaller.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\Zenject\\Source\\Install\\MonoInstaller.cs",
               "RelativeDocumentMoniker": "Assets\\Plugins\\Zenject\\Source\\Install\\MonoInstaller.cs",
@@ -2488,7 +2573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 146,
+              "DocumentIndex": 149,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Assets\\Plugins\\Zenject\\Source\\Install\\Contexts\\Context.cs",
               "RelativeDocumentMoniker": "Assets\\Plugins\\Zenject\\Source\\Install\\Contexts\\Context.cs",
@@ -2500,7 +2585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 147,
+              "DocumentIndex": 150,
               "Title": "VisualStudioIntegration.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\Documents\\GitHub\\TowersWorld\\Library\\PackageCache\\com.unity.ide.visualstudio@2.0.22\\Editor\\VisualStudioIntegration.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ide.visualstudio@2.0.22\\Editor\\VisualStudioIntegration.cs",

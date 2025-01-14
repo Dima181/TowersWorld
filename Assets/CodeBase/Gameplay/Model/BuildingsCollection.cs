@@ -1,10 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UniRx;
 
 namespace Gameplay.Model
 {
     public class BuildingsCollection : IEnumerable<BuildingModel>
     {
+        public ReactiveCommand<BuildingModel> Upgraded { get; } = new();
+
         private readonly IReadOnlyDictionary<EBuilding, BuildingModel> _buildings;
 
         public BuildingsCollection(IReadOnlyDictionary<EBuilding, BuildingModel> buildings) => 

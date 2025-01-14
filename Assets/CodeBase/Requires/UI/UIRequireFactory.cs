@@ -21,7 +21,7 @@ namespace Requires.UI
         public IDisposable Visit(BuildingRequire buildingRequire, Transform container)
         {
             var disposables = new CompositeDisposable();
-            var view = _di.InstantiatePrefabForComponent<UIBuildingRequireView>(_buildingRequirePrefab);
+            var view = _di.InstantiatePrefabForComponent<UIBuildingRequireView>(_buildingRequirePrefab, container);
             var presenter = _di.Instantiate<UIBuildingRequirePresenter>();
             presenter.Initialize(buildingRequire, view);
             disposables.Add(presenter);
@@ -36,7 +36,7 @@ namespace Requires.UI
         public IDisposable Visit(ResourceRequire resourceRequire, Transform container)
         {
             var disposables = new CompositeDisposable();
-            var view = _di.InstantiatePrefabForComponent<UIResourceRequireView>(_resourceRequirePrefab);
+            var view = _di.InstantiatePrefabForComponent<UIResourceRequireView>(_resourceRequirePrefab, container);
             var presenter = _di.Instantiate<UIResourceRequirePresenter>();
             presenter.Initialize(resourceRequire, view);
             disposables.Add(presenter);

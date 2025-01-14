@@ -30,11 +30,11 @@ namespace Inventory
         {
             _database = database;
 
-            if (_tempTestResourceMock)
+            /*if (_tempTestResourceMock)
             {
-                AddItem(Database.Gem, 10);
+                AddItem(Database.Gem, 100);
                 Debug.Log(GetItemCount(Database.Gem));
-            }
+            }*/
         }
         
         private void AddItem(StackableItemConfig key, int count)

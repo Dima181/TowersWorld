@@ -70,7 +70,9 @@
     <Compile Include="Assets\CodeBase\Infrastructure\TimeHelp\TimeHelper.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\UI\Screens\UIGameplayScreensInstaller.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UIScreenView.cs" />
+    <Compile Include="Assets\CodeBase\Core\GameResources\ResourcesProjectInstaller.cs" />
     <Compile Include="Assets\CodeBase\UI\Core\UISubPresenterBinding.cs" />
+    <Compile Include="Assets\CodeBase\Infrastructure\Pipeline\Services\ServicesInstaller.cs" />
     <Compile Include="Assets\CodeBase\Infrastructure\Installers\ProjectContextInstaller.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Acceleration\BaseProgressTaskModel.cs" />
     <Compile Include="Assets\CodeBase\Gameplay\Model\BuildingsCollection.cs" />

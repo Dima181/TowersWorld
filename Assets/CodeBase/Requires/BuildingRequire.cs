@@ -9,7 +9,7 @@ namespace Requires
     {
         public IObservable<bool> Ready => _collection.Get(BuildingId).Level
             .Select(level => level >= Level) // (уровень здания больше или равен требуемому другого здания)
-            .DistinctUntilChanged();                                            // { EBuilding.Firebox, 1 }
+            .DistinctUntilChanged();                                            // { EBuilding.Base, 1 }
 
         public EBuilding BuildingId { get; }
         public int Level { get; }

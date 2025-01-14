@@ -29,6 +29,8 @@ namespace Gameplay.Buildings.Services
             var result = new List<BuildingModel>();
 
             /*result.Add(CannonTower());*/
+            result.Add(Base());
+
             /*foreach (var item in result)
             {
                 Debug.Log(item.Id);
@@ -43,6 +45,7 @@ namespace Gameplay.Buildings.Services
             return new BuildingsCollection(result.ToDictionary(builder => builder.Id));
         }
 
+
         private TimeSpan S(float seconds) =>
             TimeSpan.FromSeconds(seconds);
         private TimeSpan M(float minutes) =>
@@ -51,6 +54,38 @@ namespace Gameplay.Buildings.Services
             TimeSpan.FromHours(hours);
         private TimeSpan DHM(float days, float hours, float minutes) =>
             TimeSpan.FromMinutes((days * 24 + hours) * 60 + minutes);
+
+
+        private BuildingModel Base()
+        {
+            TimeSpan[] durs = new TimeSpan[] { S(15), S(20), S(30), M(1.5f), M(3) };
+            int[] gemsCost = new[] { 7, 10, 10, 10, 10 };
+
+            BuildingStateConfig[] statesConfig = new[]
+            {
+                new BuildingStateConfig(110, 0.5f, 8, bullet_1, -0.5f),
+                new BuildingStateConfig(120, 0.45f, 8, bullet_1, -0.45f),
+                new BuildingStateConfig(130, 0.45f, 8, bullet_1, -0.45f),
+                new BuildingStateConfig(140, 0.45f, 8, bullet_1, -0.45f),
+                new BuildingStateConfig(150, 0.45f, 8, bullet_1, -0.45f),
+            };
+
+            BuildingResourcesConfig[] resourcesConfig = new[]
+            {
+                new BuildingResourcesConfig(10, 15),
+                new BuildingResourcesConfig(10, 15),
+                new BuildingResourcesConfig(10, 15),
+                new BuildingResourcesConfig(10, 15),
+                new BuildingResourcesConfig(10, 15),
+            };
+
+            return new BuildingBuilder()
+                .WithId(EBuilding.Base)
+                .WithName("Base")
+                .InitialStay()
+                .AddLevels(statesConfig.Length, statesConfig, resourcesConfig, gemsCost, durs, BaseRequiers(0, 5))
+                .Build();
+        }
 
         private BuildingModel CannonTower()
         {
@@ -134,8 +169,8 @@ namespace Gameplay.Buildings.Services
                 new BuildingLevelConfig(
                     new BuildingStateConfig(10, 0.5f, 8, bullet_1, -0.5f),
                     new BuildingResourcesConfig(10, 15),
-                    10,
-                    M(1),
+                    3,
+                    S(5),
                     unlockRequires
                 ),
                 new BuildingLevelConfig(

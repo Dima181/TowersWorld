@@ -47,6 +47,12 @@ namespace Gameplay.Buildings.UI
             return base.Hide();
         }
 
+        public void SetUpgradeTimer(TimeSpan remainingTime)
+        {
+            _upgradeDurationText.text = $"{remainingTime:hh\\:mm\\:ss}"; ;
+        }
+
+
         public UIBuildingUpgradePopupView SetName(string name)
         {
             _nameText.text = name;

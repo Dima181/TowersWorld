@@ -13,8 +13,12 @@ namespace Core.GameResources
     {
         [Inject] private readonly ResourcesModel _model;
 
+        private ReactiveCommand<Unit> _changedRespurcesCount = new();
+        public IObservable<Unit> ChangedRespurcesCount => _changedRespurcesCount;
+
         private Dictionary<EResource, ReactiveProperty<int>> AllProtectedResources => _model.ProtectedResources;
         private Dictionary<EResource, ReactiveProperty<int>> AllResources => _model.AllResources;
+
 
         // Res
 
@@ -31,6 +35,7 @@ namespace Core.GameResources
                 AllResources.Add(resource, new ReactiveProperty<int>(0));
 
             AllResources[resource].Value += amount;
+            _changedRespurcesCount.Execute(Unit.Default);
         }
 
         public bool TrySpend(
@@ -47,6 +52,7 @@ namespace Core.GameResources
                 return false;
 
             AllResources[resource].Value -= amount;
+            _changedRespurcesCount.Execute(Unit.Default);
 
             if (GetUnprotectedCount(resource) <= 0)
                 AllProtectedResources[resource].Value = AllResources[resource].Value;
@@ -96,6 +102,7 @@ namespace Core.GameResources
                 return false;
 
             AllProtectedResources[resource].Value += amount;
+            _changedRespurcesCount.Execute(Unit.Default);
 
             return true;
         }

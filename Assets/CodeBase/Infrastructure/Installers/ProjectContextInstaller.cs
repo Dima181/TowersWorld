@@ -1,4 +1,5 @@
 ﻿using Core;
+using Core.GameResources;
 using Infrastructure.Scenes;
 using Infrastructure.TimeHelp;
 using Unity.VisualScripting;
@@ -14,6 +15,7 @@ namespace Infrastructure.Installers
             Install<ScenesFlowInstaller>();
             Install<BootAllSceneInstaller>();
             Install<TimeInstaller>();
+            Install<ResourcesProjectInstaller>();
         }
 
         private void Install<T>() where T : Installer<T>

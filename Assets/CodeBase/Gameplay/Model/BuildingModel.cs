@@ -20,7 +20,7 @@ namespace Gameplay.Model
 
         public int FastUpgradeCost => _config.Levels[_level.Value].GemsCost;
 
-        public IReadOnlyDictionary<EBuilding, int> UpgradeBuildingRequires =>
+        public IReadOnlyDictionary<EBuilding, int> UpgradeBuildingsRequires =>
             _config.Levels[_level.Value].BuildingsRequires;
 
         public IReadOnlyDictionary<EResource, int> UpgradeCost
@@ -42,6 +42,9 @@ namespace Gameplay.Model
 
         public IReadOnlyReactiveProperty<bool> IsMaxLevel =>
             _level.Select(l => l >= MaxLevel).ToReactiveProperty();
+
+        public EBuildingState InitialState => _config.InitialState;
+        public int InitialLevel => _config.InitialLevel;
 
         public IReadOnlyDictionary<int, int> HealthPerLevel => _config.Levels
             .Select((config, index) => (config.StateConfig.Health, index))
@@ -85,5 +88,16 @@ namespace Gameplay.Model
             _buildProgressTask = buildProgressTask;
         }
 
+        public void SetLevel(int level) =>
+            _level.Value = Mathf.Clamp(level, 0, MaxLevel);
+
+        public void SetState(EBuildingState state) =>
+            _state.Value = state;
+
+        public void SetBuildingTime(DateTime start, DateTime finish)
+        {
+            _buildProgressTask = new();
+            _buildProgressTask.SetupExecutionTime(start, finish);
+        }
     }
 }

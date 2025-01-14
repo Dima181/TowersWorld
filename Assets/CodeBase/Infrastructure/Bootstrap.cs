@@ -1,5 +1,6 @@
 ﻿using Cysharp.Threading.Tasks;
 using Infrastructure.Pipeline.DataProviders;
+using Infrastructure.Pipeline.Services;
 using Infrastructure.Scenes;
 using Infrastructure.Transitions;
 using Infrastructure.View;
@@ -32,9 +33,10 @@ namespace Infrastructure
             ApplyProgress(0.1f);
 
             await InitializeData(di, disposableManager, pr =>
-                ApplyProgress(0.1f + pr * 0.25f));
+                ApplyProgress(0.1f + pr * 0.35f));
+            await InitializeServices(di, disposableManager, pr =>
+                ApplyProgress(0.45f + pr * 0.35f));
 
-            /*await _sceneLoader.LoadGameplay();*/
 
             await _blackTransition.ApplyTransition(async () =>
             {
@@ -72,6 +74,38 @@ namespace Infrastructure
             }
 
             temp.UnbindAll();
+            progress(1);
+        }
+
+        public async UniTask InitializeServices(
+            DiContainer di, 
+            DisposableManager disposableManager, 
+            Action<float> progress)
+        {
+            progress(0);
+
+            var temp = di.CreateSubContainer();
+            ServicesInstaller.Install(temp);
+            progress(0.1f);
+
+            var localServices = temp.ResolveAll<ILocalService>();
+            progress(0.15f);
+
+            var count = localServices.Count;
+            var cur = 0;
+            progress(0.25f);
+
+            foreach(var service in localServices)
+            {
+                di.Bind(service.ServiceType)
+                    .FromInstance(service)
+                    .AsSingle();
+
+                await service.Initialize(di);
+                progress(0.25f + 0.7f * (++cur) / count);
+            }
+
+            temp.UnbindAll(); 
             progress(1);
         }
     }
