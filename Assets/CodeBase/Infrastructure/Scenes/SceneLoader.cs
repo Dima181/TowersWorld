@@ -12,10 +12,11 @@ namespace Infrastructure.Scenes
     {
         public const string GAMEPLAY_SCENE = "Gameplay";
         public const string EXPLORATION_SCENE = "Exploration_scene";
+        public const string TEAMFIGHT_SCENE = "SearchTeamFight_scene";
         public const string EMPTY_SCENE = "Empty";
 
-        public IReadOnlyReactiveProperty<EScene> CurentScene => _curentScene;
-        private ReactiveProperty<EScene> _curentScene = new(EScene.Boot);
+        public IReadOnlyReactiveProperty<EScene> CurentScene => _currentScene;
+        private ReactiveProperty<EScene> _currentScene = new(EScene.Boot);
 
         [Inject] private ZenjectSceneLoader _sceneLoader;
 
@@ -24,7 +25,7 @@ namespace Infrastructure.Scenes
             Action<float> progressCallback = null,
             float sceneActivationDelay = 0)
         {
-            if (_curentScene.Value == EScene.Gameplay && !forceReload)
+            if (_currentScene.Value == EScene.Gameplay && !forceReload)
             {
                 Debug.LogError("Already on CityBuilder Scene");
                 return;
@@ -33,17 +34,32 @@ namespace Infrastructure.Scenes
             await LoadScene(EScene.Gameplay, GAMEPLAY_SCENE, sceneActivationDelay, progressCallback);
         }
 
-        public async UniTask LoadExploration(bool forceReload = false,
+        public async UniTask LoadExploration(
+            bool forceReload = false,
             Action<float> progressCallback = null,
             float sceneActivationDelay = 0)
         {
-            if(_curentScene.Value == EScene.Exploration && !forceReload)
+            if(_currentScene.Value == EScene.Exploration && !forceReload)
             {
                 Debug.LogError("Already on Exploration Scene");
                 return;
             }
 
             await LoadScene(EScene.Exploration, EXPLORATION_SCENE, sceneActivationDelay, progressCallback);
+        }
+
+        public async UniTask LoadTeamFight(
+            bool forceReload = false, 
+            Action<float> progressCallback = null, 
+            float sceneActivationDelay = 0)
+        {
+            if (_currentScene.Value == EScene.TeamFight && !forceReload)
+            {
+                Debug.LogError("Already on TeamFight Scene");
+                return;
+            }
+
+            await LoadScene(EScene.TeamFight, TEAMFIGHT_SCENE, sceneActivationDelay, progressCallback);
         }
 
         private async UniTask LoadScene(
@@ -79,7 +95,7 @@ namespace Infrastructure.Scenes
 
             if (sceneActivationDelay > 0)
                 await UniTask.Delay(TimeSpan.FromSeconds(sceneActivationDelay));
-            _curentScene.Value = scene;
+            _currentScene.Value = scene;
             operation.allowSceneActivation = true;
             await operation;
         }
@@ -113,7 +129,7 @@ namespace Infrastructure.Scenes
 
             if (sceneActivationDelay > 0)
                 await UniTask.Delay(TimeSpan.FromSeconds(sceneActivationDelay));
-            _curentScene.Value = scene;
+            _currentScene.Value = scene;
             operation.allowSceneActivation = true;
             await operation;
         }

@@ -27,5 +27,11 @@ namespace Infrastructure.Scenes
             await _transitions[transition].ApplyTransition(() =>
                 _sceneLoader.LoadExploration(forceReload, sceneActivationDelay: 0.3f));
         }
+
+        public async UniTask LoadTeamFight(ETransition transition, bool forceReload = true)
+        {
+            await _transitions[transition].ApplyTransition(() =>
+                _sceneLoader.LoadTeamFight(forceReload, sceneActivationDelay: 0.3f));
+        }
     }
 }

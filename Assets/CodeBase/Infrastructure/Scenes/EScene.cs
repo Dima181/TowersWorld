@@ -4,6 +4,7 @@
     {
         Boot,
         Gameplay,
-        Exploration
+        Exploration,
+        TeamFight
     }
 }
